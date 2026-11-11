@@ -2,102 +2,183 @@
 
 
 
+An interactive HR analytics project developed using \*\*Microsoft Excel and Power BI\*\* to analyze workforce trends, recruitment, employee exits, attrition, and employee distribution.
+
+
+
 \## Project Overview
 
-This project focuses on analyzing HR workforce data using Microsoft Excel and Power BI. The objective is to transform workforce data into meaningful insights that support HR decision-making.
+
+
+The project transforms HR data into meaningful business insights through interactive dashboards. It demonstrates how two different BI tools can be used to analyze the same business domain.
 
 
 
 \## Tools \& Technologies
 
-\- Microsoft Excel
-
-\- Power BI
-
-\- Pivot Tables \& Pivot Charts
-
-\- Power Query
-
-\- DAX
-
-\- Data Visualization
 
 
+| Tool | Usage |
 
-\## Key Analysis
+|---|---|
 
+| Microsoft Excel | Data analysis and dashboard development |
 
+| Power BI | Data modeling and interactive reporting |
 
-\- Department-wise Employee Headcount
+| Power Query | Data transformation |
 
-\- Recruitment Funnel Analysis
+| DAX | Measures and KPI calculations |
 
-\- Monthly Employee Exits
-
-\- Monthly Attrition Rate Trends
-
-\- Recruitment Source Analysis
-
-\- Employee Count by Job Level
-
-\- Monthly Employee Transfers
-
-\- Employee Retention and Average Tenure
+| Pivot Tables \& Charts | Data summarization and visualization |
 
 
 
-\## Dashboard Features
+\## Dashboard Previews
 
 
 
-\### 1. Microsoft Excel Dashboard
-
-\- Interactive Year, Month, and City slicers.
-
-\- Pivot Tables and Pivot Charts.
-
-\- Dynamic KPI cards.
-
-\- Workforce trend analysis.
+\### 1. Excel HR Analytics Dashboard
 
 
 
-\### 2. Power BI Dashboard
-
-\- Interactive Year and Month filters.
-
-\- Recruitment Funnel visualization.
-
-\- Hiring and Exit Rate analysis.
-
-\- Department-wise workforce analysis.
-
-\- Employee Exit Type and Job Level analysis.
-
-\- HR KPI tracking.
+!\[Excel HR Dashboard](excel/dashboard.png)
 
 
 
-\## Project Objective
+\*\*Key features:\*\*
 
-To demonstrate practical skills in HR analytics, data analysis, KPI reporting, and interactive dashboard development using Excel and Power BI.
+\- Department-wise employee headcount
+
+\- Monthly employee exits
+
+\- Monthly attrition trends
+
+\- Recruitment source analysis
+
+\- Employee transfers by department
+
+\- Job-level distribution
+
+\- Interactive Year, Month, and City slicers
+
+
+
+\### 2. Power BI HR Analytics Dashboard
+
+
+
+!\[Power BI HR Dashboard](powerbi/dashboard.png)
+
+
+
+\*\*Key features:\*\*
+
+\- Recruitment funnel analysis
+
+\- Hiring and exit rate analysis
+
+\- Department-wise workforce analysis
+
+\- Employee exit type analysis
+
+\- Job-level distribution
+
+\- Employee tenure analysis
+
+\- Interactive Year and Month filters
+
+
+
+\## Key Business Analysis
+
+
+
+\- Workforce distribution across departments
+
+\- Recruitment and hiring trends
+
+\- Employee attrition and retention
+
+\- Monthly employee exits
+
+\- Recruitment source effectiveness
+
+\- Employee transfers and job-level distribution
+
+
+
+\## Project Structure
+
+
+
+```text
+
+HR-Workforce-Analytics/
+
+│
+
+├── Raw\_data/
+
+│
+
+├── excel/
+
+│   ├── HR\_Workforce\_Analytics.xlsx
+
+│   └── dashboard.png
+
+│
+
+├── powerbi/
+
+│   ├── HR\_Workforce\_Analytics.pbix
+
+│   └── dashboard.png
+
+│
+
+└── README.md
+
+```
 
 
 
 \## Skills Demonstrated
 
-\- Data Cleaning
+
+
+\- Data Cleaning and Transformation
 
 \- Data Analysis
 
-\- Data Visualization
+\- Data Modeling
 
-\- Dashboard Development
+\- DAX
+
+\- Pivot Tables and Pivot Charts
 
 \- KPI Reporting
 
+\- Interactive Dashboard Development
+
 \- Business Intelligence
 
-\- HR Analytics
 
-"# HR-Workforce-Analytics" 
+
+\## Project Objective
+
+
+
+To demonstrate practical data analytics skills by developing interactive HR dashboards in Excel and Power BI and translating workforce data into useful business insights.
+
+
+
+\---
+
+
+
+\*\*Author:\*\* Data Analytics Portfolio Project  
+
+\*\*Tools:\*\* Microsoft Excel | Power BI
+
