@@ -1,0 +1,1385 @@
+employee_id,report_month,department_id,location_id,employment_status,hire_date,employment_type,job_level,department_name,location_name
+TNS00001,2025/05/31,6,2,Active,2022-02-20,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS00002,2025/05/31,5,1,Active,2020-05-15,Intern,Entry,Finance,Hyderabad
+TNS00003,2025/05/31,5,1,Active,2024-08-18,Full-time,Senior,Finance,Hyderabad
+TNS00004,2025/05/31,6,1,Active,2024-05-20,Contract,Senior,Sales & Marketing,Hyderabad
+TNS00005,2025/05/31,4,1,Active,2025-04-29,Full-time,Associate,Human Resources,Hyderabad
+TNS00006,2025/05/31,1,2,Exited,2021-01-20,Full-time,Senior,Engineering,Bengaluru
+TNS00007,2025/05/31,2,1,Active,2024-03-03,Full-time,Senior,IT Support,Hyderabad
+TNS00008,2025/05/31,5,1,Active,2022-05-04,Full-time,Entry,Finance,Hyderabad
+TNS00010,2025/05/31,2,4,Active,2019-10-29,Full-time,Manager,IT Support,Pune
+TNS00011,2025/05/31,3,1,Exited,2024-06-18,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00012,2025/05/31,6,1,Active,2023-07-14,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00013,2025/05/31,2,3,Active,2024-10-22,Full-time,Senior,IT Support,Chennai
+TNS00014,2025/05/31,9,1,Active,2024-08-12,Contract,Associate,Cybersecurity,Hyderabad
+TNS00015,2025/05/31,1,1,Exited,2021-04-08,Full-time,Entry,Engineering,Hyderabad
+TNS00016,2025/05/31,6,1,Active,2024-01-21,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00017,2025/05/31,2,3,Active,2020-03-28,Full-time,Entry,IT Support,Chennai
+TNS00018,2025/05/31,8,2,Active,2019-04-01,Full-time,Senior,Project Management,Bengaluru
+TNS00019,2025/05/31,9,2,Active,2021-11-10,Contract,Associate,Cybersecurity,Bengaluru
+TNS00020,2025/05/31,1,3,Active,2023-08-13,Full-time,Manager,Engineering,Chennai
+TNS00021,2025/05/31,10,2,Active,2019-04-15,Contract,Lead,Operations,Bengaluru
+TNS00022,2025/05/31,1,1,Active,2023-08-30,Contract,Entry,Engineering,Hyderabad
+TNS00023,2025/05/31,1,1,Active,2022-12-13,Full-time,Entry,Engineering,Hyderabad
+TNS00024,2025/05/31,5,4,Active,2025-04-03,Contract,Lead,Finance,Pune
+TNS00025,2025/05/31,1,4,Active,2023-09-26,Full-time,Senior,Engineering,Pune
+TNS00026,2025/05/31,3,2,Active,2024-08-02,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00027,2025/05/31,1,1,Active,2025-03-15,Full-time,Associate,Engineering,Hyderabad
+TNS00028,2025/05/31,2,3,Active,2023-11-11,Full-time,Senior,IT Support,Chennai
+TNS00029,2025/05/31,10,5,Active,2021-01-08,Full-time,Lead,Operations,Mumbai
+TNS00030,2025/05/31,10,3,Active,2019-08-18,Intern,Associate,Operations,Chennai
+TNS00031,2025/05/31,8,1,Active,2021-12-21,Full-time,Associate,Project Management,Hyderabad
+TNS00032,2025/05/31,6,2,Active,2025-05-18,Full-time,Manager,Sales & Marketing,Bengaluru
+TNS00034,2025/05/31,6,5,Active,2021-04-09,Full-time,Senior,Sales & Marketing,Mumbai
+TNS00035,2025/05/31,6,2,Active,2020-01-07,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00036,2025/05/31,6,3,Active,2024-03-16,Full-time,Entry,Sales & Marketing,Chennai
+TNS00037,2025/05/31,1,3,Active,2022-12-02,Intern,Associate,Engineering ,Chennai
+TNS00038,2025/05/31,1,3,Active,2022-04-26,Full-time,Associate,Engineering,Chennai
+TNS00039,2025/05/31,4,5,Active,2020-06-17,Full-time,Senior,Human Resources,Mumbai
+TNS00040,2025/05/31,4,1,Active,2021-07-26,Full-time,Lead,Human Resources,Hyderabad
+TNS00041,2025/05/31,1,1,Active,2019-04-09,Intern,Associate,Engineering,Hyderabad
+TNS00042,2025/05/31,3,1,Active,2021-06-09,Intern,Associate,Data & Analytics,Hyderabad
+TNS00043,2025/05/31,7,2,Active,2022-01-14,Full-time,Entry,Quality Assurance,Bengaluru
+TNS00044,2025/05/31,7,4,Exited,2022-01-28,Full-time,Lead,Quality Assurance,Pune
+TNS00045,2025/05/31,1,3,Active,2019-07-20,Full-time,Entry,Engineering,Chennai
+TNS00046,2025/05/31,1,1,Exited,2021-08-28,Full-time,Lead,Engineering,Hyderabad
+TNS00047,2025/05/31,2,3,Active,2024-08-29,Full-time,Entry,IT Support,Chennai
+TNS00048,2025/05/31,8,2,Active,2020-11-27,Full-time,Associate,Project Management,Bengaluru
+TNS00050,2025/05/31,1,3,Active,2023-10-27,Full-time,Senior,Engineering,Chennai
+TNS00051,2025/05/31,2,3,Active,2019-12-12,Intern,Entry,IT Support,Chennai
+TNS00052,2025/05/31,6,2,Active,2019-12-05,Full-time,Manager,Sales & Marketing,Bengaluru
+TNS00053,2025/05/31,3,2,Active,2019-12-02,Full-time,Manager,Data & Analytics,Bengaluru
+TNS00054,2025/05/31,6,1,Active,2021-02-21,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00055,2025/05/31,1,5,Active,2020-06-24,Full-time,Associate,Engineering,Mumbai
+TNS00056,2025/05/31,6,3,Active,2025-03-29,Full-time,Associate,Sales & Marketing,Chennai
+TNS00057,2025/05/31,10,1,Active,2020-08-06,Full-time,Entry,Operations,Hyderabad
+TNS00058,2025/05/31,1,4,Active,2023-12-04,Contract,Entry,Engineering,Pune
+TNS00059,2025/05/31,7,3,Active,2024-03-08,Full-time,Entry,Quality Assurance,Chennai
+TNS00060,2025/05/31,9,5,Active,2024-06-18,Full-time,Lead,Cybersecurity,Mumbai
+TNS00061,2025/05/31,7,4,Active,2025-04-14,Full-time,Senior,Quality Assurance,Pune
+TNS00062,2025/05/31,6,4,Active,2021-09-17,Full-time,Lead,Sales & Marketing,Pune
+TNS00063,2025/05/31,7,4,Active,2022-12-03,Contract,Associate,Quality Assurance,Pune
+TNS00064,2025/05/31,1,1,Active,2022-05-29,Full-time,Associate,Engineering,Hyderabad
+TNS00065,2025/05/31,2,2,Active,2021-04-10,Full-time,Senior,IT Support,Bengaluru
+TNS00066,2025/05/31,4,4,Active,2019-08-17,Full-time,Entry,Human Resources,Pune
+TNS00067,2025/05/31,9,5,Active,2023-08-07,Full-time,Entry,Cybersecurity,Mumbai
+TNS00068,2025/05/31,4,1,Active,2020-03-20,Contract,Senior,Human Resources,Hyderabad
+TNS00069,2025/05/31,1,1,Exited,2023-10-20,Full-time,Lead,Engineering,Hyderabad
+TNS00070,2025/05/31,6,5,Active,2023-05-28,Contract,Lead,Sales & Marketing,Mumbai
+TNS00071,2025/05/31,2,3,Active,2019-08-30,Full-time,Senior,IT Support,Chennai
+TNS00072,2025/05/31,7,3,Exited,2020-01-03,Full-time,Entry,Quality Assurance,Chennai
+TNS00073,2025/05/31,7,2,Active,2023-01-21,Full-time,Lead,Quality Assurance,Bengaluru
+TNS00074,2025/05/31,1,1,Active,2023-08-09,Full-time,Entry,Engineering,Hyderabad
+TNS00075,2025/05/31,7,2,Active,2020-11-17,Full-time,Associate,Quality Assurance,Bengaluru
+TNS00076,2025/05/31,3,4,Active,2022-11-06,Full-time,Entry,Data & Analytics,Pune
+TNS00077,2025/05/31,9,4,Active,2024-06-27,Full-time,Associate,Cybersecurity,Pune
+TNS00078,2025/05/31,5,1,Active,2020-01-15,Full-time,Lead,Finance,Hyderabad
+TNS00079,2025/05/31,10,2,Exited,2020-07-13,Full-time,Associate,Operations,Bengaluru
+TNS00080,2025/05/31,3,3,Exited,2021-09-12,Full-time,Lead,Data & Analytics,Chennai
+TNS00081,2025/05/31,3,2,Active,2020-05-20,Contract,Lead,Data & Analytics,Bengaluru
+TNS00082,2025/05/31,5,1,Active,2025-02-23,Intern,Senior,Finance,Hyderabad
+TNS00083,2025/05/31,2,1,Active,2022-05-15,Full-time,Lead,IT Support,Hyderabad
+TNS00084,2025/05/31,3,1,Active,2023-04-30,Contract,Entry,Data & Analytics,Hyderabad
+TNS00085,2025/05/31,6,1,Active,2023-08-16,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS00086,2025/05/31,2,2,Exited,2021-11-26,Full-time,Senior,IT Support,Bengaluru
+TNS00087,2025/05/31,5,1,Active,2023-07-28,Full-time,Lead,Finance,Hyderabad
+TNS00088,2025/05/31,9,1,Active,2019-11-28,Intern,Manager,Cybersecurity,Hyderabad
+TNS00089,2025/05/31,3,1,Active,2024-06-24,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00090,2025/05/31,1,1,Active,2019-05-18,Full-time,Entry,Engineering,Hyderabad
+TNS00091,2025/05/31,3,1,Active,2020-01-26,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00092,2025/05/31,7,3,Active,2020-03-04,Full-time,Senior,Quality Assurance,Chennai
+TNS00093,2025/05/31,4,4,Exited,2021-12-07,Full-time,Associate,Human Resources,Pune
+TNS00094,2025/05/31,10,2,Active,2024-12-31,Full-time,Associate,Operations,Bengaluru
+TNS00095,2025/05/31,5,2,Exited,2024-03-27,Contract,Associate,Finance,Bengaluru
+TNS00096,2025/05/31,5,3,Active,2025-02-20,Full-time,Associate,Finance,Chennai
+TNS00097,2025/05/31,10,5,Active,2020-01-06,Contract,Entry,Operations,Mumbai
+TNS00098,2025/05/31,1,3,Active,2021-06-14,Full-time,Manager,Engineering,Chennai
+TNS00099,2025/05/31,1,1,Active,2022-08-18,Full-time,Senior,Engineering,Hyderabad
+TNS00100,2025/05/31,10,5,Exited,2019-07-04,Full-time,Senior,Operations,Mumbai
+TNS00101,2025/05/31,3,3,Active,2021-07-22,Contract,Associate,Data & Analytics,Chennai
+TNS00102,2025/05/31,1,1,Active,2020-03-24,Full-time,Senior,Engineering,Hyderabad
+TNS00103,2025/05/31,7,1,Active,2019-07-14,Full-time,Entry,Quality Assurance,Hyderabad
+TNS00104,2025/05/31,4,2,Exited,2022-04-06,Full-time,Senior,Human Resources,Bengaluru
+TNS00105,2025/05/31,1,4,Active,2021-03-21,Intern,Associate,Engineering,Pune
+TNS00106,2025/05/31,1,3,Exited,2020-07-12,Full-time,Manager,Engineering,Chennai
+TNS00107,2025/05/31,6,1,Active,2023-08-28,Contract,Entry,Sales & Marketing,Hyderabad
+TNS00108,2025/05/31,1,3,Active,2019-04-20,Full-time,Senior,Engineering,Chennai
+TNS00111,2025/05/31,10,2,Active,2023-07-13,Full-time,Entry,Operations,Bengaluru
+TNS00113,2025/05/31,1,2,Active,2020-09-28,Full-time,Entry,Engineering,Bengaluru
+TNS00114,2025/05/31,3,5,Exited,2019-03-13,Full-time,Senior,Data & Analytics,Mumbai
+TNS00115,2025/05/31,1,2,Exited,2021-04-21,Full-time,Entry,Engineering,Bengaluru
+TNS00116,2025/05/31,1,1,Active,2020-07-02,Full-time,Manager,Engineering,Hyderabad
+TNS00117,2025/05/31,6,5,Active,2024-12-05,Full-time,Associate,Sales & Marketing,Mumbai
+TNS00118,2025/05/31,6,3,Active,2021-09-04,Full-time,Senior,Sales & Marketing,Chennai
+TNS00119,2025/05/31,9,1,Active,2023-04-20,Full-time,Lead,Cybersecurity,Hyderabad
+TNS00120,2025/05/31,6,1,Active,2020-07-05,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00121,2025/05/31,2,1,Active,2023-04-21,Intern,Entry,IT Support,Hyderabad
+TNS00122,2025/05/31,3,2,Active,2019-10-22,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00123,2025/05/31,1,1,Exited,2020-03-26,Full-time,Entry,Engineering,Hyderabad
+TNS00125,2025/05/31,6,3,Active,2023-08-16,Full-time,Senior,Sales & Marketing,Chennai
+TNS00126,2025/05/31,2,1,Active,2021-11-07,Full-time,Lead,IT Support,Hyderabad
+TNS00127,2025/05/31,1,1,Active,2025-05-08,Full-time,Entry,Engineering,Hyderabad
+TNS00128,2025/05/31,1,5,Active,2023-03-27,Full-time,Entry,Engineering,Mumbai
+TNS00129,2025/05/31,7,2,Active,2022-01-21,Full-time,Entry,Quality Assurance,Bengaluru
+TNS00130,2025/05/31,1,2,Active,2021-03-16,Full-time,Manager,Engineering,Bengaluru
+TNS00131,2025/05/31,3,2,Active,2022-05-11,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00132,2025/05/31,4,3,Exited,2024-04-28,Full-time,Senior,Human Resources,Chennai
+TNS00133,2025/05/31,3,1,Active,2022-11-19,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00134,2025/05/31,5,5,Active,2020-07-04,Full-time,Entry,Finance,Mumbai
+TNS00135,2025/05/31,9,2,Active,2023-12-10,Full-time,Senior,Cybersecurity,Bengaluru
+TNS00136,2025/05/31,7,4,Exited,2023-08-01,Full-time,Manager,Quality Assurance,Pune
+TNS00137,2025/05/31,3,4,Active,2024-04-12,Full-time,Associate,Data & Analytics,Pune
+TNS00138,2025/05/31,1,1,Active,2023-05-11,Full-time,Entry,Engineering,Hyderabad
+TNS00139,2025/05/31,1,4,Active,2020-11-30,Full-time,Entry,Engineering,Pune
+TNS00140,2025/05/31,7,3,Active,2024-07-23,Full-time,Associate,Quality Assurance,Chennai
+TNS00141,2025/05/31,6,3,Active,2022-05-15,Contract,Lead,Sales & Marketing,Chennai
+TNS00142,2025/05/31,10,1,Active,2023-01-30,Full-time,Entry,Operations,Hyderabad
+TNS00143,2025/05/31,3,2,Active,2024-11-21,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00144,2025/05/31,3,1,Active,2019-10-02,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00145,2025/05/31,6,3,Exited,2022-01-09,Full-time,Entry,Sales & Marketing,Chennai
+TNS00146,2025/05/31,9,2,Active,2023-02-13,Full-time,Associate,Cybersecurity,Bengaluru
+TNS00147,2025/05/31,9,1,Active,2019-10-13,Full-time,Entry,Cybersecurity,Hyderabad
+TNS00148,2025/05/31,1,4,Exited,2020-01-03,Full-time,Lead,Engineering,Pune
+TNS00150,2025/05/31,1,2,Active,2024-09-29,Full-time,Entry,Engineering,Bengaluru
+TNS00151,2025/05/31,1,1,Active,2024-07-04,Contract,Entry,Engineering,Hyderabad
+TNS00152,2025/05/31,1,3,Active,2025-01-12,Full-time,Lead,Engineering,Chennai
+TNS00153,2025/05/31,9,3,Active,2023-03-14,Full-time,Senior,Cybersecurity,Chennai
+TNS00154,2025/05/31,7,2,Active,2024-10-26,Full-time,Senior,Quality Assurance,Bengaluru
+TNS00155,2025/05/31,1,2,Active,2019-12-10,Full-time,Associate,Engineering,Bengaluru
+TNS00156,2025/05/31,4,1,Active,2022-08-01,Full-time,Associate,Human Resources,Hyderabad
+TNS00157,2025/05/31,3,1,Active,2024-11-27,Contract,Entry,Data & Analytics,Hyderabad
+TNS00158,2025/05/31,1,4,Active,2023-05-02,Full-time,Associate,Engineering,Pune
+TNS00159,2025/05/31,2,1,Active,2024-02-01,Full-time,Associate,IT Support,Hyderabad
+TNS00160,2025/05/31,2,1,Active,2024-03-18,Full-time,Associate,IT Support,Hyderabad
+TNS00161,2025/05/31,10,1,Active,2023-08-18,Contract,Entry,Operations,Hyderabad
+TNS00162,2025/05/31,1,2,Active,2019-01-04,Full-time,Manager,Engineering,Bengaluru
+TNS00163,2025/05/31,6,2,Active,2019-07-08,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00164,2025/05/31,5,5,Exited,2021-04-02,Contract,Senior,Finance,Mumbai
+TNS00166,2025/05/31,2,2,Active,2020-05-11,Full-time,Associate,IT Support,Bengaluru
+TNS00167,2025/05/31,2,1,Active,2019-07-25,Full-time,Senior,IT Support,Hyderabad
+TNS00168,2025/05/31,3,5,Active,2023-02-27,Contract,Entry,Data & Analytics,Mumbai
+TNS00169,2025/05/31,1,1,Active,2021-05-22,Full-time,Associate,Engineering,Hyderabad
+TNS00170,2025/05/31,3,1,Active,2022-02-22,Contract,Lead,Data & Analytics,Hyderabad
+TNS00171,2025/05/31,1,4,Active,2024-06-04,Full-time,Senior,Engineering,Pune
+TNS00172,2025/05/31,1,1,Active,2024-09-26,Full-time,Entry,Engineering,Hyderabad
+TNS00173,2025/05/31,3,2,Active,2022-09-05,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00174,2025/05/31,9,2,Active,2020-02-14,Full-time,Senior,Cybersecurity,Bengaluru
+TNS00175,2025/05/31,10,4,Exited,2019-01-01,Intern,Entry,Operations,Pune
+TNS00176,2025/05/31,3,1,Active,2024-08-23,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00177,2025/05/31,8,4,Active,2023-12-20,Full-time,Entry,Project Management,Pune
+TNS00178,2025/05/31,6,2,Active,2023-01-30,Contract,Entry,Sales & Marketing,Bengaluru
+TNS00179,2025/05/31,1,1,Active,2024-05-31,Full-time,Senior,Engineering,Hyderabad
+TNS00180,2025/05/31,2,4,Exited,2023-01-12,Contract,Associate,IT Support,Pune
+TNS00181,2025/05/31,10,1,Active,2019-01-08,Contract,Associate,Operations,Hyderabad
+TNS00182,2025/05/31,5,2,Exited,2019-01-13,Intern,Senior,Finance,Bengaluru
+TNS00183,2025/05/31,3,1,Active,2023-02-11,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00184,2025/05/31,1,1,Active,2024-11-03,Full-time,Entry,Engineering,Hyderabad
+TNS00185,2025/05/31,3,1,Active,2020-05-03,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00186,2025/05/31,3,1,Active,2021-02-11,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00187,2025/05/31,7,1,Active,2024-01-04,Full-time,Senior,Quality Assurance,Hyderabad
+TNS00190,2025/05/31,3,1,Active,2023-06-02,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00191,2025/05/31,6,5,Exited,2020-11-28,Full-time,Associate,Sales & Marketing,Mumbai
+TNS00192,2025/05/31,1,5,Exited,2020-09-11,Full-time,Lead,Engineering,Mumbai
+TNS00194,2025/05/31,8,1,Active,2019-04-22,Full-time,Lead,Project Management,Hyderabad
+TNS00195,2025/05/31,1,1,Active,2019-01-24,Full-time,Senior,Engineering,Hyderabad
+TNS00196,2025/05/31,3,4,Active,2023-01-13,Full-time,Lead,Data & Analytics,Pune
+TNS00198,2025/05/31,2,2,Active,2020-04-17,Full-time,Manager,IT Support,Bengaluru
+TNS00199,2025/05/31,1,3,Active,2024-12-16,Full-time,Lead,Engineering,Chennai
+TNS00200,2025/05/31,2,1,Active,2023-08-24,Contract,Senior,IT Support,Hyderabad
+TNS00201,2025/05/31,6,2,Active,2021-07-10,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00202,2025/05/31,3,1,Exited,2020-01-21,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00203,2025/05/31,4,1,Exited,2024-06-27,Contract,Associate,Human Resources,Hyderabad
+TNS00204,2025/05/31,1,2,Active,2019-12-31,Full-time,Entry,Engineering,Bengaluru
+TNS00205,2025/05/31,1,5,Exited,2024-07-20,Full-time,Associate,Engineering,Mumbai
+TNS00206,2025/05/31,3,3,Exited,2023-03-04,Full-time,Associate,Data & Analytics,Chennai
+TNS00207,2025/05/31,9,4,Active,2024-07-27,Contract,Manager,Cybersecurity,Pune
+TNS00208,2025/05/31,8,1,Exited,2021-06-14,Full-time,Entry,Project Management,Hyderabad
+TNS00209,2025/05/31,1,4,Active,2020-07-02,Full-time,Entry,Engineering,Pune
+TNS00210,2025/05/31,3,2,Active,2022-10-27,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00211,2025/05/31,1,1,Active,2021-05-19,Full-time,Associate,Engineering,Hyderabad
+TNS00213,2025/05/31,6,4,Active,2021-11-06,Full-time,Senior,Sales & Marketing,Pune
+TNS00214,2025/05/31,6,1,Active,2021-05-01,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00215,2025/05/31,1,5,Active,2021-04-30,Contract,Entry,Engineering,Mumbai
+TNS00216,2025/05/31,1,5,Active,2022-02-14,Full-time,Lead,Engineering,Mumbai
+TNS00217,2025/05/31,6,4,Active,2019-05-13,Full-time,Associate,Sales & Marketing ,Pune
+TNS00218,2025/05/31,3,1,Active,2024-08-15,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00219,2025/05/31,1,1,Active,2023-05-22,Full-time,Lead,Engineering,Hyderabad
+TNS00220,2025/05/31,1,2,Exited,2021-08-05,Intern,Lead,Engineering,Bengaluru
+TNS00221,2025/05/31,5,1,Exited,2023-06-12,Full-time,Associate,Finance,Hyderabad
+TNS00222,2025/05/31,7,4,Active,2021-05-28,Full-time,Entry,Quality Assurance,Pune
+TNS00223,2025/05/31,1,2,Active,2020-09-13,Full-time,Lead,Engineering,Bengaluru
+TNS00224,2025/05/31,1,1,Active,2024-07-29,Full-time,Entry,Engineering,Hyderabad
+TNS00225,2025/05/31,2,4,Active,2023-11-27,Full-time,Manager,IT Support,Pune
+TNS00226,2025/05/31,10,5,Exited,2022-01-11,Full-time,Entry,Operations,Mumbai
+TNS00227,2025/05/31,6,4,Active,2021-03-11,Full-time,Senior,Sales & Marketing,Pune
+TNS00228,2025/05/31,3,2,Active,2025-02-05,Full-time,Lead,Data & Analytics,Bengaluru
+TNS00229,2025/05/31,2,1,Active,2019-03-10,Full-time,Senior,IT Support,Hyderabad
+TNS00230,2025/05/31,1,4,Active,2020-04-05,Full-time,Entry,Engineering,Pune
+TNS00231,2025/05/31,1,1,Exited,2021-09-27,Full-time,Senior,Engineering,Hyderabad
+TNS00232,2025/05/31,1,1,Active,2020-12-14,Full-time,Entry,Engineering,Hyderabad
+TNS00233,2025/05/31,9,1,Active,2021-06-03,Full-time,Associate,Cybersecurity,Hyderabad
+TNS00234,2025/05/31,4,5,Active,2019-09-09,Full-time,Senior,Human Resources,Mumbai
+TNS00235,2025/05/31,5,2,Active,2022-08-08,Full-time,Entry,Finance,Bengaluru
+TNS00236,2025/05/31,10,4,Active,2021-09-23,Full-time,Associate,Operations,Pune
+TNS00237,2025/05/31,10,2,Active,2020-12-18,Contract,Lead,Operations,Bengaluru
+TNS00238,2025/05/31,4,3,Active,2019-10-09,Contract,Senior,Human Resources,Chennai
+TNS00239,2025/05/31,3,2,Active,2022-04-16,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00240,2025/05/31,9,2,Exited,2023-11-10,Full-time,Associate,Cybersecurity,Bengaluru
+TNS00241,2025/05/31,1,3,Exited,2020-10-13,Full-time,Associate,Engineering,Chennai
+TNS00242,2025/05/31,6,4,Active,2021-06-04,Full-time,Manager,Sales & Marketing,Pune
+TNS00244,2025/05/31,9,2,Exited,2024-09-07,Full-time,Entry,Cybersecurity,Bengaluru
+TNS00245,2025/05/31,2,1,Active,2022-11-06,Full-time,Senior,IT Support,Hyderabad
+TNS00246,2025/05/31,4,1,Active,2020-02-24,Full-time,Associate,Human Resources,Hyderabad
+TNS00247,2025/05/31,4,2,Exited,2023-10-25,Full-time,Entry,Human Resources,Bengaluru
+TNS00248,2025/05/31,10,4,Active,2025-02-19,Full-time,Entry,Operations,Pune
+TNS00249,2025/05/31,10,2,Active,2020-09-22,Full-time,Associate,Operations,Bengaluru
+TNS00250,2025/05/31,1,1,Active,2023-07-18,Full-time,Entry,Engineering,Hyderabad
+TNS00251,2025/05/31,5,4,Exited,2022-08-19,Full-time,Lead,Finance,Pune
+TNS00252,2025/05/31,1,1,Active,2021-11-14,Full-time,Manager,Engineering,Hyderabad
+TNS00253,2025/05/31,9,3,Active,2023-08-12,Full-time,Entry,Cybersecurity,Chennai
+TNS00254,2025/05/31,8,1,Active,2020-11-08,Full-time,Senior,Project Management,Hyderabad
+TNS00255,2025/05/31,10,5,Exited,2021-08-25,Contract,Entry,Operations,Mumbai
+TNS00256,2025/05/31,6,1,Exited,2022-03-19,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00258,2025/05/31,3,2,Active,2019-02-22,Contract,Senior,Data & Analytics,Bengaluru
+TNS00259,2025/05/31,6,1,Active,2021-03-20,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00260,2025/05/31,1,1,Active,2023-06-09,Full-time,Senior,Engineering,Hyderabad
+TNS00261,2025/05/31,4,2,Active,2024-01-12,Full-time,Senior,Human Resources,Bengaluru
+TNS00263,2025/05/31,1,1,Active,2023-11-07,Full-time,Associate,Engineering,Hyderabad
+TNS00264,2025/05/31,7,1,Active,2024-03-08,Full-time,Senior,Quality Assurance,Hyderabad
+TNS00265,2025/05/31,4,1,Active,2020-11-18,Full-time,Manager,Human Resources,Hyderabad
+TNS00266,2025/05/31,1,3,Active,2019-05-11,Full-time,Manager,Engineering,Chennai
+TNS00267,2025/05/31,9,4,Active,2020-05-01,Full-time,Senior,Cybersecurity,Pune
+TNS00268,2025/05/31,9,4,Active,2024-12-16,Full-time,Entry,Cybersecurity,Pune
+TNS00269,2025/05/31,3,3,Active,2021-07-26,Full-time,Associate,Data & Analytics,Chennai
+TNS00270,2025/05/31,10,3,Active,2025-02-17,Contract,Lead,Operations,Chennai
+TNS00271,2025/05/31,4,2,Active,2019-04-19,Full-time,Lead,Human Resources,Bengaluru
+TNS00272,2025/05/31,4,2,Exited,2020-01-20,Full-time,Senior,Human Resources,Bengaluru
+TNS00273,2025/05/31,2,1,Active,2019-08-11,Full-time,Entry,IT Support,Hyderabad
+TNS00274,2025/05/31,3,1,Exited,2022-09-06,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00275,2025/05/31,2,1,Active,2020-12-03,Full-time,Associate,IT Support,Hyderabad
+TNS00276,2025/05/31,2,2,Active,2021-12-15,Full-time,Lead,IT Support,Bengaluru
+TNS00277,2025/05/31,6,5,Active,2022-06-11,Full-time,Lead,Sales & Marketing,Mumbai
+TNS00278,2025/05/31,1,5,Active,2019-03-29,Contract,Senior,Engineering,Mumbai
+TNS00279,2025/05/31,10,5,Active,2022-01-14,Full-time,Senior,Operations,Mumbai
+TNS00280,2025/05/31,4,1,Active,2025-05-19,Full-time,Associate,Human Resources,Hyderabad
+TNS00281,2025/05/31,6,4,Active,2022-10-26,Full-time,Associate,Sales & Marketing,Pune
+TNS00282,2025/05/31,8,2,Active,2022-06-19,Full-time,Associate,Project Management,Bengaluru
+TNS00283,2025/05/31,7,3,Active,2023-02-15,Full-time,Lead,Quality Assurance,Chennai
+TNS00284,2025/05/31,1,2,Active,2019-09-24,Full-time,Associate,Engineering,Bengaluru
+TNS00285,2025/05/31,4,4,Active,2024-03-10,Contract,Entry,Human Resources,Pune
+TNS00286,2025/05/31,7,2,Active,2022-05-31,Full-time,Senior,Quality Assurance,Bengaluru
+TNS00287,2025/05/31,10,2,Active,2022-08-31,Full-time,Lead,Operations,Bengaluru
+TNS00289,2025/05/31,5,2,Active,2022-04-23,Intern,Associate,Finance,Bengaluru
+TNS00291,2025/05/31,1,3,Active,2022-08-02,Full-time,Entry,Engineering,Chennai
+TNS00292,2025/05/31,6,2,Active,2019-01-06,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00294,2025/05/31,3,5,Active,2022-07-13,Full-time,Entry,Data & Analytics,Mumbai
+TNS00295,2025/05/31,1,3,Active,2019-10-27,Contract,Lead,Engineering,Chennai
+TNS00296,2025/05/31,2,2,Active,2020-04-24,Full-time,Senior,IT Support,Bengaluru
+TNS00297,2025/05/31,1,1,Active,2022-03-26,Intern,Associate,Engineering,Hyderabad
+TNS00298,2025/05/31,9,4,Active,2024-12-27,Full-time,Senior,Cybersecurity,Pune
+TNS00299,2025/05/31,5,2,Exited,2020-09-19,Full-time,Senior,Finance,Bengaluru
+TNS00300,2025/05/31,1,1,Active,2019-05-14,Full-time,Lead,Engineering,Hyderabad
+TNS00301,2025/05/31,10,3,Active,2021-01-30,Full-time,Associate,Operations,Chennai
+TNS00302,2025/05/31,7,4,Active,2023-04-30,Full-time,Manager,Quality Assurance,Pune
+TNS00303,2025/05/31,3,3,Active,2023-08-16,Full-time,Associate,Data & Analytics,Chennai
+TNS00304,2025/05/31,5,1,Active,2019-04-02,Full-time,Entry,Finance,Hyderabad
+TNS00307,2025/05/31,5,3,Exited,2021-10-22,Full-time,Senior,Finance,Chennai
+TNS00308,2025/05/31,6,4,Exited,2024-08-22,Full-time,Associate,Sales & Marketing,Pune
+TNS00309,2025/05/31,1,1,Active,2024-10-17,Full-time,Lead,Engineering,Hyderabad
+TNS00310,2025/05/31,8,2,Active,2022-07-31,Full-time,Entry,Project Management,Bengaluru
+TNS00311,2025/05/31,6,1,Active,2021-11-06,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS00312,2025/05/31,1,3,Active,2019-06-24,Full-time,Entry,Engineering,Chennai
+TNS00313,2025/05/31,1,2,Active,2020-09-06,Full-time,Associate,Engineering,Bengaluru
+TNS00314,2025/05/31,6,2,Active,2021-11-20,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00315,2025/05/31,6,1,Active,2024-12-28,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00316,2025/05/31,7,2,Active,2023-03-08,Full-time,Entry,Quality Assurance,Bengaluru
+TNS00317,2025/05/31,1,1,Exited,2021-10-13,Contract,Associate,Engineering,Hyderabad
+TNS00318,2025/05/31,5,2,Active,2023-09-30,Full-time,Manager,Finance,Bengaluru
+TNS00319,2025/05/31,1,2,Exited,2023-09-15,Contract,Entry,Engineering,Bengaluru
+TNS00320,2025/05/31,3,5,Active,2020-07-31,Full-time,Senior,Data & Analytics,Mumbai
+TNS00321,2025/05/31,6,2,Active,2019-03-23,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00322,2025/05/31,1,5,Active,2019-05-31,Full-time,Senior,Engineering,Mumbai
+TNS00323,2025/05/31,1,2,Active,2022-08-30,Full-time,Lead,Engineering,Bengaluru
+TNS00324,2025/05/31,8,1,Active,2021-12-29,Full-time,Lead,Project Management,Hyderabad
+TNS00327,2025/05/31,10,3,Active,2024-08-31,Full-time,Entry,Operations,Chennai
+TNS00329,2025/05/31,1,3,Active,2023-06-13,Full-time,Lead,Engineering,Chennai
+TNS00330,2025/05/31,9,2,Active,2021-11-26,Full-time,Lead,Cybersecurity,Bengaluru
+TNS00331,2025/05/31,3,2,Active,2024-11-13,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00333,2025/05/31,6,1,Active,2024-10-12,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS00334,2025/05/31,6,1,Exited,2022-05-11,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00336,2025/05/31,2,1,Exited,2023-05-19,Full-time,Senior,IT Support,Hyderabad
+TNS00337,2025/05/31,10,2,Active,2021-08-10,Full-time,Associate,Operations,Bengaluru
+TNS00338,2025/05/31,8,4,Active,2023-09-01,Full-time,Associate,Project Management,Pune
+TNS00339,2025/05/31,1,2,Exited,2023-11-09,Full-time,Associate,Engineering,Bengaluru
+TNS00340,2025/05/31,1,1,Active,2020-07-17,Full-time,Entry,Engineering,Hyderabad
+TNS00341,2025/05/31,6,3,Active,2020-01-28,Contract,Lead,Sales & Marketing,Chennai
+TNS00342,2025/05/31,1,2,Active,2024-12-28,Full-time,Entry,Engineering,Bengaluru
+TNS00343,2025/05/31,1,2,Active,2020-03-06,Intern,Lead,Engineering,Bengaluru
+TNS00344,2025/05/31,1,4,Active,2025-03-04,Full-time,Lead,Engineering,Pune
+TNS00345,2025/05/31,6,2,Exited,2022-03-09,Contract,Lead,Sales & Marketing,Bengaluru
+TNS00346,2025/05/31,3,2,Active,2021-02-27,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00347,2025/05/31,8,1,Active,2024-01-12,Full-time,Manager,Project Management,Hyderabad
+TNS00348,2025/05/31,10,4,Active,2020-04-07,Full-time,Associate,Operations,Pune
+TNS00349,2025/05/31,1,2,Active,2020-09-22,Full-time,Senior,Engineering,Bengaluru
+TNS00350,2025/05/31,10,1,Active,2023-04-10,Full-time,Senior,Operations,Hyderabad
+TNS00351,2025/05/31,1,5,Active,2021-09-10,Contract,Associate,Engineering,Mumbai
+TNS00352,2025/05/31,7,1,Active,2021-06-17,Full-time,Associate,Quality Assurance,Hyderabad
+TNS00353,2025/05/31,1,2,Active,2022-06-29,Intern,Senior,Engineering,Bengaluru
+TNS00354,2025/05/31,1,3,Exited,2019-03-23,Full-time,Lead,Engineering,Chennai
+TNS00355,2025/05/31,1,2,Exited,2021-06-12,Contract,Entry,Engineering,Bengaluru
+TNS00356,2025/05/31,1,5,Active,2023-03-05,Full-time,Senior,Engineering,Mumbai
+TNS00357,2025/05/31,3,4,Active,2024-10-16,Contract,Entry,Data & Analytics,Pune
+TNS00358,2025/05/31,1,5,Exited,2022-09-16,Full-time,Senior,Engineering,Mumbai
+TNS00359,2025/05/31,5,4,Active,2025-03-08,Full-time,Senior,Finance,Pune
+TNS00360,2025/05/31,2,5,Active,2022-05-08,Full-time,Lead,IT Support,Mumbai
+TNS00361,2025/05/31,3,1,Active,2020-06-07,Full-time,Manager,Data & Analytics,Hyderabad
+TNS00362,2025/05/31,6,2,Active,2024-07-04,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS00363,2025/05/31,6,1,Active,2024-11-22,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00364,2025/05/31,4,1,Active,2022-08-01,Contract,Entry,Human Resources,Hyderabad
+TNS00365,2025/05/31,6,5,Exited,2023-04-11,Contract,Associate,Sales & Marketing,Mumbai
+TNS00366,2025/05/31,5,2,Active,2021-08-10,Full-time,Associate,Finance,Bengaluru
+TNS00367,2025/05/31,10,1,Active,2023-05-19,Intern,Associate,Operations,Hyderabad
+TNS00368,2025/05/31,3,2,Exited,2022-07-31,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00369,2025/05/31,8,5,Active,2019-05-13,Full-time,Entry,Project Management,Mumbai
+TNS00370,2025/05/31,4,3,Active,2024-09-19,Full-time,Entry,Human Resources,Chennai
+TNS00371,2025/05/31,1,2,Active,2023-09-06,Full-time,Entry,Engineering,Bengaluru
+TNS00373,2025/05/31,1,4,Active,2022-11-09,Contract,Senior,Engineering,Pune
+TNS00374,2025/05/31,3,2,Active,2023-07-09,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00375,2025/05/31,1,1,Active,2023-01-02,Full-time,Associate,Engineering,Hyderabad
+TNS00376,2025/05/31,1,5,Active,2022-06-14,Full-time,Associate,Engineering,Mumbai
+TNS00377,2025/05/31,10,1,Exited,2021-04-29,Full-time,Associate,Operations,Hyderabad
+TNS00378,2025/05/31,7,4,Active,2024-05-31,Full-time,Entry,Quality Assurance,Pune
+TNS00381,2025/05/31,3,2,Exited,2022-12-31,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00382,2025/05/31,1,5,Active,2022-08-10,Full-time,Associate,Engineering,Mumbai
+TNS00383,2025/05/31,1,4,Active,2023-08-17,Full-time,Senior,Engineering,Pune
+TNS00384,2025/05/31,8,1,Active,2021-11-10,Full-time,Senior,Project Management,Hyderabad
+TNS00385,2025/05/31,2,5,Active,2019-03-30,Full-time,Senior,IT Support,Mumbai
+TNS00386,2025/05/31,6,1,Active,2021-05-06,Intern,Associate,Sales & Marketing,Hyderabad
+TNS00387,2025/05/31,3,3,Active,2023-02-11,Full-time,Associate,Data & Analytics,Chennai
+TNS00388,2025/05/31,3,3,Active,2020-12-02,Intern,Entry,Data & Analytics,Chennai
+TNS00389,2025/05/31,10,4,Active,2021-01-27,Full-time,Entry,Operations,Pune
+TNS00390,2025/05/31,8,1,Active,2024-10-18,Full-time,Associate,Project Management,Hyderabad
+TNS00391,2025/05/31,9,4,Active,2021-01-31,Full-time,Associate,Cybersecurity,Pune
+TNS00392,2025/05/31,4,4,Exited,2021-07-22,Full-time,Senior,Human Resources,Pune
+TNS00393,2025/05/31,1,3,Active,2022-10-10,Full-time,Lead,Engineering,Chennai
+TNS00395,2025/05/31,3,3,Active,2021-01-15,Full-time,Associate,Data & Analytics,Chennai
+TNS00397,2025/05/31,5,3,Active,2024-03-09,Full-time,Associate,Finance,Chennai
+TNS00398,2025/05/31,1,2,Active,2023-11-05,Full-time,Entry,Engineering,Bengaluru
+TNS00399,2025/05/31,2,4,Active,2024-11-17,Contract,Senior,IT Support,Pune
+TNS00400,2025/05/31,4,1,Active,2024-02-06,Intern,Associate,Human Resources,Hyderabad
+TNS00401,2025/05/31,4,2,Active,2019-09-25,Full-time,Associate,Human Resources,Bengaluru
+TNS00402,2025/05/31,6,4,Active,2021-08-03,Full-time,Manager,Sales & Marketing,Pune
+TNS00403,2025/05/31,3,3,Active,2020-07-15,Full-time,Senior,Data & Analytics ,Chennai
+TNS00404,2025/05/31,9,1,Exited,2020-08-17,Full-time,Entry,Cybersecurity,Hyderabad
+TNS00405,2025/05/31,1,4,Active,2024-05-12,Full-time,Associate,Engineering,Pune
+TNS00406,2025/05/31,2,2,Active,2019-01-11,Full-time,Entry,IT Support,Bengaluru
+TNS00407,2025/05/31,7,5,Active,2020-12-16,Full-time,Entry,Quality Assurance,Mumbai
+TNS00408,2025/05/31,4,3,Active,2023-02-12,Contract,Entry,Human Resources,Chennai
+TNS00409,2025/05/31,5,2,Active,2023-05-28,Full-time,Lead,Finance,Bengaluru
+TNS00410,2025/05/31,5,5,Exited,2024-06-07,Full-time,Associate,Finance,Mumbai
+TNS00411,2025/05/31,1,1,Active,2019-11-24,Full-time,Senior,Engineering,Hyderabad
+TNS00412,2025/05/31,6,1,Active,2023-12-27,Contract,Entry,Sales & Marketing,Hyderabad
+TNS00413,2025/05/31,3,2,Exited,2024-10-22,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00414,2025/05/31,2,1,Active,2021-12-29,Full-time,Associate,IT Support,Hyderabad
+TNS00415,2025/05/31,1,2,Exited,2020-02-17,Full-time,Associate,Engineering,Bengaluru
+TNS00416,2025/05/31,3,3,Active,2020-11-14,Full-time,Manager,Data & Analytics,Chennai
+TNS00417,2025/05/31,3,1,Active,2023-01-28,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00418,2025/05/31,1,4,Exited,2024-08-24,Full-time,Senior,Engineering,Pune
+TNS00419,2025/05/31,2,4,Active,2020-08-06,Full-time,Entry,IT Support,Pune
+TNS00421,2025/05/31,3,4,Active,2023-07-30,Contract,Associate,Data & Analytics,Pune
+TNS00422,2025/05/31,3,1,Active,2024-06-26,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00423,2025/05/31,3,4,Active,2024-12-25,Full-time,Senior,Data & Analytics,Pune
+TNS00425,2025/05/31,1,4,Active,2022-03-22,Intern,Senior,Engineering,Pune
+TNS00426,2025/05/31,6,3,Active,2022-12-18,Contract,Entry,Sales & Marketing,Chennai
+TNS00428,2025/05/31,1,5,Active,2020-02-25,Full-time,Lead,Engineering,Mumbai
+TNS00429,2025/05/31,1,1,Active,2025-02-19,Full-time,Senior,Engineering,Hyderabad
+TNS00430,2025/05/31,9,5,Exited,2020-05-20,Full-time,Lead,Cybersecurity,Mumbai
+TNS00431,2025/05/31,6,1,Active,2022-09-20,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00432,2025/05/31,8,1,Active,2023-05-25,Intern,Senior,Project Management,Hyderabad
+TNS00433,2025/05/31,6,1,Active,2023-03-20,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00434,2025/05/31,3,2,Active,2020-11-23,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00436,2025/05/31,10,5,Active,2020-08-25,Contract,Entry,Operations,Mumbai
+TNS00437,2025/05/31,2,2,Exited,2022-10-31,Full-time,Senior,IT Support,Bengaluru
+TNS00438,2025/05/31,6,1,Active,2024-12-14,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00439,2025/05/31,7,4,Active,2024-12-23,Full-time,Senior,Quality Assurance,Pune
+TNS00440,2025/05/31,1,4,Active,2021-01-05,Full-time,Senior,Engineering,Pune
+TNS00441,2025/05/31,1,5,Exited,2023-07-17,Full-time,Lead,Engineering,Mumbai
+TNS00442,2025/05/31,4,1,Active,2020-03-22,Full-time,Entry,Human Resources,Hyderabad
+TNS00443,2025/05/31,1,1,Active,2024-07-22,Full-time,Entry,Engineering,Hyderabad
+TNS00444,2025/05/31,1,5,Active,2021-02-16,Full-time,Associate,Engineering,Mumbai
+TNS00445,2025/05/31,3,2,Active,2023-06-11,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00446,2025/05/31,3,1,Active,2019-12-25,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00447,2025/05/31,9,3,Active,2024-12-18,Full-time,Associate,Cybersecurity,Chennai
+TNS00448,2025/05/31,3,3,Active,2022-04-01,Full-time,Associate,Data & Analytics,Chennai
+TNS00450,2025/05/31,1,4,Active,2023-05-22,Full-time,Entry,Engineering,Pune
+TNS00451,2025/05/31,6,2,Active,2024-03-29,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00452,2025/05/31,5,4,Active,2022-07-29,Full-time,Manager,Finance,Pune
+TNS00453,2025/05/31,7,4,Exited,2024-10-02,Full-time,Entry,Quality Assurance,Pune
+TNS00454,2025/05/31,7,3,Exited,2021-05-02,Contract,Entry,Quality Assurance,Chennai
+TNS00455,2025/05/31,2,2,Active,2023-09-25,Full-time,Senior,IT Support,Bengaluru
+TNS00456,2025/05/31,9,2,Active,2024-04-26,Full-time,Manager,Cybersecurity,Bengaluru
+TNS00457,2025/05/31,3,1,Exited,2019-12-28,Contract,Entry,Data & Analytics,Hyderabad
+TNS00458,2025/05/31,9,3,Active,2024-12-29,Full-time,Associate,Cybersecurity,Chennai
+TNS00459,2025/05/31,6,2,Active,2022-09-16,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00460,2025/05/31,2,3,Active,2019-10-14,Contract,Associate,IT Support,Chennai
+TNS00461,2025/05/31,9,3,Active,2020-02-22,Full-time,Associate,Cybersecurity,Chennai
+TNS00462,2025/05/31,4,3,Exited,2019-06-03,Contract,Lead,Human Resources,Chennai
+TNS00463,2025/05/31,2,5,Active,2024-08-11,Full-time,Senior,IT Support,Mumbai
+TNS00464,2025/05/31,1,4,Exited,2024-04-12,Full-time,Entry,Engineering,Pune
+TNS00465,2025/05/31,1,1,Active,2024-06-26,Full-time,Senior,Engineering,Hyderabad
+TNS00466,2025/05/31,4,1,Active,2022-09-19,Intern,Lead,Human Resources,Hyderabad
+TNS00467,2025/05/31,1,2,Active,2025-04-11,Full-time,Associate,Engineering,Bengaluru
+TNS00468,2025/05/31,5,2,Active,2024-08-17,Full-time,Entry,Finance,Bengaluru
+TNS00469,2025/05/31,1,3,Active,2021-01-03,Full-time,Associate,Engineering,Chennai
+TNS00470,2025/05/31,9,2,Exited,2024-08-30,Contract,Entry,Cybersecurity,Bengaluru
+TNS00471,2025/05/31,8,5,Active,2019-06-09,Full-time,Entry,Project Management,Mumbai
+TNS00472,2025/05/31,3,3,Active,2024-09-26,Intern,Entry,Data & Analytics,Chennai
+TNS00473,2025/05/31,7,4,Active,2021-06-19,Intern,Entry,Quality Assurance,Pune
+TNS00474,2025/05/31,7,2,Active,2025-04-08,Full-time,Associate,Quality Assurance,Bengaluru
+TNS00475,2025/05/31,6,5,Active,2023-08-09,Contract,Associate,Sales & Marketing,Mumbai
+TNS00476,2025/05/31,6,1,Exited,2020-05-18,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00477,2025/05/31,1,2,Exited,2024-10-10,Full-time,Lead,Engineering,Bengaluru
+TNS00478,2025/05/31,1,3,Active,2022-01-05,Contract,Associate,Engineering,Chennai
+TNS00479,2025/05/31,10,1,Active,2022-10-12,Contract,Associate,Operations,Hyderabad
+TNS00480,2025/05/31,1,2,Active,2023-07-11,Full-time,Senior,Engineering,Bengaluru
+TNS00481,2025/05/31,6,4,Active,2020-08-02,Contract,Senior,Sales & Marketing,Pune
+TNS00482,2025/05/31,9,2,Active,2023-07-02,Full-time,Associate,Cybersecurity,Bengaluru
+TNS00483,2025/05/31,1,3,Exited,2022-01-27,Contract,Associate,Engineering,Chennai
+TNS00485,2025/05/31,7,2,Active,2020-01-13,Full-time,Entry,Quality Assurance,Bengaluru
+TNS00486,2025/05/31,6,1,Active,2024-07-23,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00487,2025/05/31,6,1,Active,2023-03-28,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS00488,2025/05/31,10,1,Active,2024-05-29,Full-time,Associate,Operations,Hyderabad
+TNS00489,2025/05/31,3,4,Active,2023-04-15,Full-time,Entry,Data & Analytics,Pune
+TNS00490,2025/05/31,1,3,Active,2019-07-02,Full-time,Associate,Engineering,Chennai
+TNS00491,2025/05/31,1,1,Active,2022-04-18,Full-time,Senior,Engineering,Hyderabad
+TNS00492,2025/05/31,10,2,Active,2019-01-06,Full-time,Entry,Operations,Bengaluru
+TNS00493,2025/05/31,1,3,Active,2024-07-09,Contract,Senior,Engineering,Chennai
+TNS00494,2025/05/31,2,5,Active,2019-06-19,Full-time,Associate,IT Support,Mumbai
+TNS00495,2025/05/31,3,5,Active,2023-07-09,Full-time,Senior,Data & Analytics,Mumbai
+TNS00497,2025/05/31,6,1,Active,2023-01-05,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS00498,2025/05/31,6,4,Active,2019-03-31,Contract,Entry,Sales & Marketing,Pune
+TNS00499,2025/05/31,1,1,Active,2019-04-12,Full-time,Entry,Engineering,Hyderabad
+TNS00500,2025/05/31,1,5,Active,2019-07-09,Full-time,Lead,Engineering,Mumbai
+TNS00501,2025/05/31,10,1,Exited,2020-02-27,Full-time,Associate,Operations ,Hyderabad
+TNS00502,2025/05/31,3,1,Active,2021-12-20,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00503,2025/05/31,1,1,Active,2025-03-12,Full-time,Senior,Engineering,Hyderabad
+TNS00504,2025/05/31,10,2,Exited,2020-02-10,Full-time,Entry,Operations,Bengaluru
+TNS00505,2025/05/31,6,2,Active,2020-10-05,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS00506,2025/05/31,5,2,Active,2019-03-16,Full-time,Associate,Finance,Bengaluru
+TNS00507,2025/05/31,10,1,Active,2022-06-04,Full-time,Senior,Operations,Hyderabad
+TNS00508,2025/05/31,9,4,Active,2021-12-28,Full-time,Entry,Cybersecurity,Pune
+TNS00509,2025/05/31,2,1,Active,2024-07-22,Full-time,Senior,IT Support,Hyderabad
+TNS00510,2025/05/31,7,2,Active,2024-07-14,Full-time,Associate,Quality Assurance,Bengaluru
+TNS00511,2025/05/31,3,1,Active,2024-02-13,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00512,2025/05/31,8,2,Active,2021-06-09,Full-time,Associate,Project Management,Bengaluru
+TNS00513,2025/05/31,1,2,Exited,2022-12-03,Full-time,Entry,Engineering,Bengaluru
+TNS00514,2025/05/31,6,2,Active,2024-11-07,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00515,2025/05/31,8,5,Active,2021-10-03,Intern,Associate,Project Management,Mumbai
+TNS00516,2025/05/31,6,3,Exited,2020-01-01,Full-time,Entry,Sales & Marketing,Chennai
+TNS00517,2025/05/31,1,1,Active,2020-02-23,Full-time,Lead,Engineering,Hyderabad
+TNS00518,2025/05/31,2,1,Active,2021-03-21,Intern,Senior,IT Support,Hyderabad
+TNS00519,2025/05/31,6,3,Active,2025-02-17,Full-time,Lead,Sales & Marketing,Chennai
+TNS00520,2025/05/31,6,1,Active,2023-06-03,Contract,Manager,Sales & Marketing,Hyderabad
+TNS00521,2025/05/31,10,4,Active,2019-11-18,Full-time,Lead,Operations,Pune
+TNS00522,2025/05/31,7,4,Active,2022-02-15,Full-time,Associate,Quality Assurance,Pune
+TNS00523,2025/05/31,4,5,Active,2022-06-07,Full-time,Senior,Human Resources,Mumbai
+TNS00524,2025/05/31,2,3,Active,2021-09-10,Full-time,Entry,IT Support,Chennai
+TNS00525,2025/05/31,10,5,Exited,2020-05-06,Full-time,Senior,Operations,Mumbai
+TNS00526,2025/05/31,2,5,Active,2024-05-24,Full-time,Manager,IT Support,Mumbai
+TNS00527,2025/05/31,9,4,Active,2024-09-24,Full-time,Associate,Cybersecurity,Pune
+TNS00528,2025/05/31,3,2,Active,2022-09-04,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00529,2025/05/31,3,4,Active,2019-01-01,Full-time,Senior,Data & Analytics,Pune
+TNS00530,2025/05/31,2,4,Exited,2020-09-15,Full-time,Entry,IT Support,Pune
+TNS00531,2025/05/31,3,1,Active,2021-03-08,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00532,2025/05/31,4,2,Active,2023-11-22,Full-time,Associate,Human Resources,Bengaluru
+TNS00533,2025/05/31,7,4,Active,2021-04-07,Full-time,Senior,Quality Assurance,Pune
+TNS00534,2025/05/31,2,4,Exited,2020-03-11,Full-time,Entry,IT Support,Pune
+TNS00535,2025/05/31,7,3,Active,2019-04-21,Full-time,Entry,Quality Assurance,Chennai
+TNS00536,2025/05/31,6,2,Active,2025-01-30,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00537,2025/05/31,1,4,Active,2024-04-01,Contract,Lead,Engineering,Pune
+TNS00538,2025/05/31,1,1,Active,2020-12-21,Full-time,Senior,Engineering,Hyderabad
+TNS00539,2025/05/31,2,4,Active,2022-04-22,Full-time,Senior,IT Support,Pune
+TNS00540,2025/05/31,1,1,Active,2021-01-06,Full-time,Entry,Engineering,Hyderabad
+TNS00542,2025/05/31,1,2,Active,2023-11-20,Full-time,Entry,Engineering,Bengaluru
+TNS00543,2025/05/31,1,2,Active,2024-04-21,Full-time,Senior,Engineering,Bengaluru
+TNS00544,2025/05/31,8,1,Active,2023-08-12,Full-time,Entry,Project Management,Hyderabad
+TNS00545,2025/05/31,10,1,Active,2024-02-15,Contract,Senior,Operations,Hyderabad
+TNS00546,2025/05/31,7,2,Active,2019-02-03,Contract,Associate,Quality Assurance,Bengaluru
+TNS00547,2025/05/31,9,3,Active,2019-11-16,Intern,Entry,Cybersecurity,Chennai
+TNS00548,2025/05/31,6,1,Active,2020-10-21,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00549,2025/05/31,4,1,Active,2023-02-06,Full-time,Senior,Human Resources,Hyderabad
+TNS00550,2025/05/31,10,5,Active,2019-11-06,Full-time,Senior,Operations,Mumbai
+TNS00551,2025/05/31,5,1,Active,2023-10-31,Full-time,Entry,Finance,Hyderabad
+TNS00552,2025/05/31,5,1,Active,2021-08-20,Intern,Lead,Finance,Hyderabad
+TNS00553,2025/05/31,9,1,Active,2020-12-31,Full-time,Associate,Cybersecurity,Hyderabad
+TNS00554,2025/05/31,6,5,Active,2021-04-03,Full-time,Senior,Sales & Marketing,Mumbai
+TNS00555,2025/05/31,7,3,Active,2024-07-04,Full-time,Senior,Quality Assurance,Chennai
+TNS00556,2025/05/31,1,2,Exited,2023-07-17,Full-time,Associate,Engineering,Bengaluru
+TNS00557,2025/05/31,5,1,Active,2022-12-06,Full-time,Associate,Finance,Hyderabad
+TNS00558,2025/05/31,1,2,Exited,2024-07-28,Full-time,Entry,Engineering,Bengaluru
+TNS00559,2025/05/31,3,3,Active,2023-08-17,Full-time,Entry,Data & Analytics,Chennai
+TNS00560,2025/05/31,1,2,Active,2021-07-18,Full-time,Senior,Engineering,Bengaluru
+TNS00561,2025/05/31,6,1,Active,2022-10-04,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00562,2025/05/31,2,4,Exited,2023-02-05,Full-time,Lead,IT Support,Pune
+TNS00563,2025/05/31,2,2,Active,2019-02-01,Full-time,Senior,IT Support,Bengaluru
+TNS00564,2025/05/31,3,1,Active,2023-02-06,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00565,2025/05/31,6,1,Exited,2019-08-02,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00566,2025/05/31,1,1,Active,2025-04-06,Full-time,Lead,Engineering,Hyderabad
+TNS00567,2025/05/31,6,2,Exited,2021-12-23,Contract,Manager,Sales & Marketing,Bengaluru
+TNS00568,2025/05/31,1,1,Active,2022-06-29,Full-time,Manager,Engineering,Hyderabad
+TNS00569,2025/05/31,10,1,Active,2022-03-06,Intern,Manager,Operations,Hyderabad
+TNS00570,2025/05/31,5,3,Active,2021-05-27,Full-time,Associate,Finance,Chennai
+TNS00571,2025/05/31,7,1,Active,2020-12-07,Contract,Entry,Quality Assurance,Hyderabad
+TNS00572,2025/05/31,1,1,Active,2019-12-17,Full-time,Lead,Engineering,Hyderabad
+TNS00573,2025/05/31,3,5,Active,2025-02-20,Full-time,Associate,Data & Analytics,Mumbai
+TNS00574,2025/05/31,5,4,Active,2025-05-12,Full-time,Associate,Finance,Pune
+TNS00576,2025/05/31,1,1,Active,2021-07-14,Contract,Manager,Engineering,Hyderabad
+TNS00577,2025/05/31,3,4,Active,2020-05-17,Full-time,Entry,Data & Analytics,Pune
+TNS00578,2025/05/31,2,3,Exited,2023-05-07,Intern,Entry,IT Support,Chennai
+TNS00579,2025/05/31,10,1,Active,2023-11-06,Full-time,Entry,Operations,Hyderabad
+TNS00580,2025/05/31,2,2,Active,2019-04-01,Full-time,Senior,IT Support,Bengaluru
+TNS00581,2025/05/31,1,5,Active,2023-11-16,Full-time,Entry,Engineering,Mumbai
+TNS00582,2025/05/31,6,2,Active,2019-04-29,Intern,Manager,Sales & Marketing,Bengaluru
+TNS00583,2025/05/31,9,4,Active,2023-08-06,Full-time,Entry,Cybersecurity,Pune
+TNS00584,2025/05/31,9,1,Active,2022-03-24,Full-time,Senior,Cybersecurity,Hyderabad
+TNS00585,2025/05/31,7,1,Active,2023-02-16,Full-time,Manager,Quality Assurance,Hyderabad
+TNS00588,2025/05/31,1,2,Active,2025-02-05,Full-time,Senior,Engineering,Bengaluru
+TNS00589,2025/05/31,1,5,Active,2022-05-15,Full-time,Associate,Engineering,Mumbai
+TNS00590,2025/05/31,3,1,Exited,2024-08-19,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00591,2025/05/31,9,1,Active,2019-06-14,Full-time,Lead,Cybersecurity,Hyderabad
+TNS00592,2025/05/31,5,3,Active,2024-10-16,Intern,Associate,Finance,Chennai
+TNS00593,2025/05/31,3,1,Active,2023-01-14,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00594,2025/05/31,6,1,Active,2024-12-11,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00595,2025/05/31,7,1,Active,2020-06-08,Contract,Senior,Quality Assurance,Hyderabad
+TNS00596,2025/05/31,9,1,Active,2020-03-26,Full-time,Entry,Cybersecurity,Hyderabad
+TNS00597,2025/05/31,5,1,Active,2019-02-19,Contract,Entry,Finance,Hyderabad
+TNS00598,2025/05/31,4,3,Active,2022-10-24,Contract,Entry,Human Resources,Chennai
+TNS00599,2025/05/31,2,4,Active,2022-07-27,Full-time,Lead,IT Support,Pune
+TNS00600,2025/05/31,3,2,Active,2020-11-29,Contract,Senior,Data & Analytics,Bengaluru
+TNS00601,2025/05/31,9,1,Active,2020-12-25,Full-time,Lead,Cybersecurity,Hyderabad
+TNS00602,2025/05/31,5,1,Active,2021-06-08,Full-time,Lead,Finance,Hyderabad
+TNS00603,2025/05/31,1,1,Active,2022-10-26,Contract,Entry,Engineering,Hyderabad
+TNS00604,2025/05/31,6,4,Active,2024-05-22,Full-time,Entry,Sales & Marketing,Pune
+TNS00605,2025/05/31,6,1,Exited,2021-05-16,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00606,2025/05/31,5,1,Active,2020-12-15,Full-time,Senior,Finance,Hyderabad
+TNS00607,2025/05/31,2,1,Active,2021-08-23,Contract,Manager,IT Support,Hyderabad
+TNS00609,2025/05/31,5,2,Active,2023-02-16,Full-time,Entry,Finance,Bengaluru
+TNS00611,2025/05/31,4,5,Active,2020-09-24,Full-time,Entry,Human Resources,Mumbai
+TNS00612,2025/05/31,8,4,Active,2019-05-20,Full-time,Associate,Project Management,Pune
+TNS00613,2025/05/31,9,1,Active,2021-07-28,Full-time,Associate,Cybersecurity,Hyderabad
+TNS00614,2025/05/31,1,1,Active,2022-04-05,Full-time,Lead,Engineering,Hyderabad
+TNS00615,2025/05/31,3,1,Active,2019-09-29,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00616,2025/05/31,8,1,Active,2024-11-19,Full-time,Associate,Project Management,Hyderabad
+TNS00617,2025/05/31,9,2,Active,2023-11-11,Full-time,Associate,Cybersecurity,Bengaluru
+TNS00618,2025/05/31,4,1,Active,2022-11-20,Full-time,Lead,Human Resources,Hyderabad
+TNS00619,2025/05/31,3,5,Active,2020-03-03,Full-time,Entry,Data & Analytics,Mumbai
+TNS00620,2025/05/31,10,2,Active,2023-07-25,Full-time,Manager,Operations ,Bengaluru
+TNS00621,2025/05/31,1,3,Active,2021-09-28,Full-time,Entry,Engineering,Chennai
+TNS00622,2025/05/31,4,4,Active,2019-09-26,Full-time,Senior,Human Resources,Pune
+TNS00624,2025/05/31,2,1,Active,2023-05-18,Full-time,Senior,IT Support,Hyderabad
+TNS00625,2025/05/31,7,5,Active,2019-05-02,Contract,Associate,Quality Assurance,Mumbai
+TNS00626,2025/05/31,7,2,Active,2025-01-31,Full-time,Associate,Quality Assurance,Bengaluru
+TNS00627,2025/05/31,4,3,Active,2022-05-16,Full-time,Associate,Human Resources,Chennai
+TNS00628,2025/05/31,7,5,Active,2025-02-07,Full-time,Entry,Quality Assurance,Mumbai
+TNS00629,2025/05/31,1,2,Exited,2019-02-19,Full-time,Entry,Engineering,Bengaluru
+TNS00630,2025/05/31,8,5,Active,2022-12-23,Full-time,Associate,Project Management,Mumbai
+TNS00631,2025/05/31,2,1,Active,2019-09-08,Full-time,Lead,IT Support,Hyderabad
+TNS00632,2025/05/31,8,3,Active,2023-02-12,Full-time,Associate,Project Management,Chennai
+TNS00633,2025/05/31,1,3,Active,2020-05-10,Contract,Lead,Engineering,Chennai
+TNS00634,2025/05/31,3,1,Active,2024-01-22,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00635,2025/05/31,3,2,Active,2019-10-10,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00636,2025/05/31,4,1,Active,2020-04-14,Full-time,Associate,Human Resources,Hyderabad
+TNS00637,2025/05/31,1,2,Active,2020-08-27,Full-time,Associate,Engineering,Bengaluru
+TNS00638,2025/05/31,6,5,Exited,2021-10-10,Full-time,Associate,Sales & Marketing,Mumbai
+TNS00639,2025/05/31,3,1,Active,2019-09-16,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00640,2025/05/31,6,4,Exited,2020-09-22,Full-time,Entry,Sales & Marketing,Pune
+TNS00641,2025/05/31,5,1,Active,2020-04-03,Full-time,Entry,Finance,Hyderabad
+TNS00642,2025/05/31,2,2,Active,2021-08-14,Contract,Entry,IT Support,Bengaluru
+TNS00643,2025/05/31,4,5,Exited,2023-02-05,Intern,Senior,Human Resources,Mumbai
+TNS00644,2025/05/31,8,2,Active,2023-12-03,Full-time,Associate,Project Management,Bengaluru
+TNS00645,2025/05/31,8,1,Active,2024-06-07,Full-time,Entry,Project Management,Hyderabad
+TNS00646,2025/05/31,1,3,Active,2024-12-06,Full-time,Senior,Engineering,Chennai
+TNS00647,2025/05/31,8,5,Active,2024-01-28,Full-time,Entry,Project Management,Mumbai
+TNS00648,2025/05/31,6,1,Active,2023-11-30,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00649,2025/05/31,3,2,Active,2020-09-02,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00651,2025/05/31,5,5,Active,2023-01-31,Full-time,Manager,Finance,Mumbai
+TNS00652,2025/05/31,8,2,Exited,2023-03-31,Full-time,Lead,Project Management,Bengaluru
+TNS00653,2025/05/31,7,4,Active,2023-02-05,Full-time,Associate,Quality Assurance,Pune
+TNS00655,2025/05/31,9,2,Active,2019-05-31,Contract,Entry,Cybersecurity,Bengaluru
+TNS00656,2025/05/31,6,2,Active,2023-02-17,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00657,2025/05/31,6,1,Active,2025-03-10,Full-time,Manager,Sales & Marketing,Hyderabad
+TNS00658,2025/05/31,4,3,Active,2020-04-15,Contract,Lead,Human Resources,Chennai
+TNS00659,2025/05/31,2,1,Active,2022-10-11,Full-time,Entry,IT Support,Hyderabad
+TNS00660,2025/05/31,7,1,Active,2022-11-13,Full-time,Entry,Quality Assurance,Hyderabad
+TNS00661,2025/05/31,3,2,Exited,2023-03-01,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00662,2025/05/31,3,2,Active,2023-07-13,Full-time,Associate,Data & Analytics,Bengaluru
+TNS00663,2025/05/31,9,2,Active,2024-04-25,Full-time,Senior,Cybersecurity,Bengaluru
+TNS00664,2025/05/31,2,2,Active,2022-05-12,Full-time,Manager,IT Support,Bengaluru
+TNS00665,2025/05/31,1,5,Exited,2019-04-15,Full-time,Senior,Engineering,Mumbai
+TNS00666,2025/05/31,8,1,Exited,2020-05-24,Full-time,Entry,Project Management,Hyderabad
+TNS00667,2025/05/31,6,4,Exited,2019-07-01,Full-time,Manager,Sales & Marketing,Pune
+TNS00668,2025/05/31,10,1,Active,2020-03-19,Full-time,Lead,Operations,Hyderabad
+TNS00669,2025/05/31,2,2,Active,2024-11-11,Full-time,Senior,IT Support,Bengaluru
+TNS00671,2025/05/31,6,2,Active,2023-03-27,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS00672,2025/05/31,1,1,Active,2023-01-10,Full-time,Senior,Engineering,Hyderabad
+TNS00673,2025/05/31,3,2,Active,2023-04-04,Contract,Associate,Data & Analytics,Bengaluru
+TNS00674,2025/05/31,3,5,Active,2025-02-16,Full-time,Entry,Data & Analytics,Mumbai
+TNS00675,2025/05/31,6,1,Active,2024-08-09,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00676,2025/05/31,10,2,Exited,2024-09-27,Contract,Senior,Operations,Bengaluru
+TNS00677,2025/05/31,3,1,Active,2021-02-23,Full-time,Entry,Data & Analytics,Hyderabad
+TNS00678,2025/05/31,10,5,Active,2024-12-04,Full-time,Associate,Operations,Mumbai
+TNS00679,2025/05/31,7,1,Active,2022-12-06,Full-time,Entry,Quality Assurance,Hyderabad
+TNS00680,2025/05/31,7,4,Active,2021-04-19,Full-time,Senior,Quality Assurance,Pune
+TNS00681,2025/05/31,4,2,Active,2021-02-26,Full-time,Entry,Human Resources,Bengaluru
+TNS00682,2025/05/31,2,2,Active,2019-06-21,Full-time,Associate,IT Support,Bengaluru
+TNS00684,2025/05/31,4,5,Active,2019-05-01,Full-time,Entry,Human Resources,Mumbai
+TNS00685,2025/05/31,5,1,Exited,2021-10-13,Full-time,Lead,Finance,Hyderabad
+TNS00687,2025/05/31,1,5,Active,2025-03-22,Full-time,Associate,Engineering,Mumbai
+TNS00688,2025/05/31,6,1,Active,2024-04-08,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00690,2025/05/31,10,2,Active,2022-12-17,Full-time,Entry,Operations,Bengaluru
+TNS00691,2025/05/31,6,2,Active,2024-02-10,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00692,2025/05/31,1,1,Active,2024-08-04,Full-time,Entry,Engineering,Hyderabad
+TNS00693,2025/05/31,3,2,Exited,2024-02-14,Full-time,Lead,Data & Analytics,Bengaluru
+TNS00694,2025/05/31,8,5,Active,2022-11-11,Full-time,Manager,Project Management,Mumbai
+TNS00695,2025/05/31,7,1,Active,2023-06-16,Contract,Entry,Quality Assurance,Hyderabad
+TNS00696,2025/05/31,1,4,Active,2020-07-22,Full-time,Associate,Engineering,Pune
+TNS00697,2025/05/31,6,1,Active,2020-08-20,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00698,2025/05/31,2,1,Active,2023-06-16,Full-time,Lead,IT Support,Hyderabad
+TNS00699,2025/05/31,3,1,Active,2022-03-17,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00700,2025/05/31,1,1,Active,2023-11-17,Full-time,Senior,Engineering,Hyderabad
+TNS00701,2025/05/31,1,5,Active,2025-01-25,Full-time,Senior,Engineering,Mumbai
+TNS00702,2025/05/31,1,1,Active,2024-05-01,Full-time,Manager,Engineering,Hyderabad
+TNS00704,2025/05/31,1,1,Exited,2022-08-21,Full-time,Senior,Engineering,Hyderabad
+TNS00706,2025/05/31,3,1,Active,2022-08-09,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00707,2025/05/31,2,2,Active,2021-08-04,Full-time,Manager,IT Support,Bengaluru
+TNS00708,2025/05/31,3,1,Active,2019-07-10,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00709,2025/05/31,1,1,Active,2023-01-24,Full-time,Associate,Engineering,Hyderabad
+TNS00710,2025/05/31,1,1,Active,2024-04-20,Full-time,Manager,Engineering,Hyderabad
+TNS00711,2025/05/31,2,5,Active,2022-06-02,Full-time,Associate,IT Support,Mumbai
+TNS00712,2025/05/31,4,2,Active,2019-10-13,Full-time,Entry,Human Resources,Bengaluru
+TNS00713,2025/05/31,1,1,Active,2024-02-13,Full-time,Lead,Engineering,Hyderabad
+TNS00714,2025/05/31,1,3,Active,2025-03-21,Full-time,Entry,Engineering,Chennai
+TNS00715,2025/05/31,9,5,Exited,2021-11-13,Full-time,Associate,Cybersecurity,Mumbai
+TNS00717,2025/05/31,1,1,Active,2022-10-19,Contract,Entry,Engineering,Hyderabad
+TNS00718,2025/05/31,1,4,Active,2023-07-18,Contract,Entry,Engineering,Pune
+TNS00719,2025/05/31,6,1,Active,2019-01-19,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00720,2025/05/31,10,1,Active,2020-05-27,Full-time,Entry,Operations,Hyderabad
+TNS00721,2025/05/31,6,1,Active,2022-08-28,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00722,2025/05/31,3,3,Active,2019-10-03,Full-time,Senior,Data & Analytics,Chennai
+TNS00723,2025/05/31,3,1,Active,2020-05-26,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00724,2025/05/31,4,4,Active,2019-04-07,Full-time,Lead,Human Resources,Pune
+TNS00725,2025/05/31,5,2,Active,2022-09-03,Full-time,Manager,Finance,Bengaluru
+TNS00726,2025/05/31,1,5,Active,2024-03-01,Contract,Senior,Engineering,Mumbai
+TNS00727,2025/05/31,8,1,Active,2023-06-15,Full-time,Associate,Project Management,Hyderabad
+TNS00728,2025/05/31,1,1,Active,2019-07-14,Full-time,Entry,Engineering,Hyderabad
+TNS00729,2025/05/31,6,1,Exited,2019-03-05,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00730,2025/05/31,1,3,Active,2021-06-24,Contract,Entry,Engineering,Chennai
+TNS00731,2025/05/31,1,3,Active,2021-01-26,Contract,Lead,Engineering,Chennai
+TNS00732,2025/05/31,2,3,Exited,2023-07-23,Full-time,Associate,IT Support,Chennai
+TNS00733,2025/05/31,3,2,Active,2021-02-04,Contract,Associate,Data & Analytics,Bengaluru
+TNS00734,2025/05/31,8,4,Active,2022-09-04,Full-time,Senior,Project Management,Pune
+TNS00735,2025/05/31,1,2,Active,2019-10-10,Full-time,Lead,Engineering,Bengaluru
+TNS00736,2025/05/31,10,5,Active,2020-06-22,Full-time,Associate,Operations,Mumbai
+TNS00737,2025/05/31,3,5,Active,2019-06-29,Full-time,Senior,Data & Analytics,Mumbai
+TNS00738,2025/05/31,9,2,Exited,2022-12-20,Full-time,Entry,Cybersecurity,Bengaluru
+TNS00739,2025/05/31,1,5,Active,2021-04-25,Full-time,Entry,Engineering,Mumbai
+TNS00740,2025/05/31,4,2,Active,2024-12-20,Contract,Senior,Human Resources,Bengaluru
+TNS00741,2025/05/31,6,2,Exited,2020-05-03,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00742,2025/05/31,2,1,Active,2020-10-30,Full-time,Senior,IT Support,Hyderabad
+TNS00743,2025/05/31,10,2,Exited,2023-12-13,Full-time,Associate,Operations,Bengaluru
+TNS00744,2025/05/31,6,1,Active,2024-09-08,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00745,2025/05/31,3,1,Exited,2020-08-03,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00746,2025/05/31,2,3,Active,2020-11-18,Full-time,Entry,IT Support,Chennai
+TNS00747,2025/05/31,10,4,Exited,2023-01-24,Contract,Associate,Operations,Pune
+TNS00748,2025/05/31,6,5,Active,2021-08-14,Full-time,Entry,Sales & Marketing,Mumbai
+TNS00749,2025/05/31,1,1,Exited,2021-05-26,Full-time,Lead,Engineering,Hyderabad
+TNS00750,2025/05/31,6,4,Active,2020-08-24,Contract,Senior,Sales & Marketing,Pune
+TNS00751,2025/05/31,6,1,Active,2024-10-05,Full-time,Manager,Sales & Marketing,Hyderabad
+TNS00752,2025/05/31,9,1,Active,2024-01-08,Full-time,Associate,Cybersecurity,Hyderabad
+TNS00753,2025/05/31,9,5,Exited,2022-05-09,Full-time,Associate,Cybersecurity,Mumbai
+TNS00754,2025/05/31,1,2,Active,2023-01-30,Full-time,Associate,Engineering,Bengaluru
+TNS00755,2025/05/31,2,1,Active,2023-11-08,Full-time,Lead,IT Support,Hyderabad
+TNS00756,2025/05/31,6,4,Active,2024-07-17,Full-time,Entry,Sales & Marketing,Pune
+TNS00757,2025/05/31,8,4,Active,2022-04-24,Full-time,Senior,Project Management,Pune
+TNS00758,2025/05/31,3,4,Active,2020-07-02,Full-time,Entry,Data & Analytics,Pune
+TNS00759,2025/05/31,8,3,Active,2019-09-18,Contract,Senior,Project Management,Chennai
+TNS00760,2025/05/31,7,5,Active,2020-10-12,Contract,Senior,Quality Assurance,Mumbai
+TNS00761,2025/05/31,5,5,Active,2020-06-17,Full-time,Associate,Finance,Mumbai
+TNS00762,2025/05/31,8,4,Exited,2024-01-19,Contract,Entry,Project Management,Pune
+TNS00763,2025/05/31,7,1,Exited,2021-12-18,Full-time,Senior,Quality Assurance,Hyderabad
+TNS00764,2025/05/31,6,4,Active,2019-07-29,Full-time,Associate,Sales & Marketing,Pune
+TNS00765,2025/05/31,2,2,Exited,2021-12-21,Full-time,Lead,IT Support,Bengaluru
+TNS00766,2025/05/31,6,1,Active,2024-06-27,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00767,2025/05/31,5,1,Active,2022-07-15,Contract,Entry,Finance,Hyderabad
+TNS00768,2025/05/31,10,1,Active,2022-08-21,Full-time,Entry,Operations,Hyderabad
+TNS00770,2025/05/31,6,2,Active,2025-01-25,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00771,2025/05/31,6,2,Active,2020-09-12,Full-time,Lead,Sales & Marketing,Bengaluru
+TNS00772,2025/05/31,8,1,Active,2021-11-26,Full-time,Lead,Project Management,Hyderabad
+TNS00773,2025/05/31,9,1,Active,2019-03-18,Full-time,Associate,Cybersecurity,Hyderabad
+TNS00774,2025/05/31,6,3,Exited,2020-05-31,Full-time,Entry,Sales & Marketing,Chennai
+TNS00775,2025/05/31,8,4,Exited,2021-10-03,Intern,Manager,Project Management,Pune
+TNS00776,2025/05/31,1,4,Exited,2023-06-08,Full-time,Associate,Engineering,Pune
+TNS00777,2025/05/31,2,2,Active,2025-04-24,Full-time,Associate,IT Support,Bengaluru
+TNS00778,2025/05/31,3,1,Active,2019-04-03,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00779,2025/05/31,6,1,Active,2023-09-10,Contract,Entry,Sales & Marketing,Hyderabad
+TNS00780,2025/05/31,3,1,Active,2022-01-15,Full-time,Senior,Data & Analytics,Hyderabad
+TNS00781,2025/05/31,9,2,Active,2023-01-06,Contract,Associate,Cybersecurity,Bengaluru
+TNS00782,2025/05/31,7,3,Active,2024-07-23,Full-time,Senior,Quality Assurance,Chennai
+TNS00783,2025/05/31,3,1,Active,2019-01-20,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00784,2025/05/31,2,2,Active,2021-02-10,Full-time,Entry,IT Support,Bengaluru
+TNS00785,2025/05/31,1,5,Active,2020-04-10,Full-time,Associate,Engineering,Mumbai
+TNS00786,2025/05/31,2,4,Active,2023-06-23,Full-time,Lead,IT Support,Pune
+TNS00787,2025/05/31,9,4,Exited,2022-05-28,Full-time,Lead,Cybersecurity,Pune
+TNS00788,2025/05/31,9,4,Active,2024-11-20,Full-time,Associate,Cybersecurity,Pune
+TNS00789,2025/05/31,7,1,Exited,2024-02-27,Contract,Senior,Quality Assurance,Hyderabad
+TNS00790,2025/05/31,1,3,Active,2021-11-09,Full-time,Associate,Engineering,Chennai
+TNS00791,2025/05/31,7,4,Active,2021-06-06,Full-time,Associate,Quality Assurance,Pune
+TNS00792,2025/05/31,1,1,Active,2021-11-20,Full-time,Lead,Engineering,Hyderabad
+TNS00793,2025/05/31,4,2,Active,2021-09-21,Full-time,Associate,Human Resources,Bengaluru
+TNS00795,2025/05/31,10,3,Active,2019-03-15,Full-time,Entry,Operations,Chennai
+TNS00796,2025/05/31,7,1,Active,2024-01-16,Full-time,Entry,Quality Assurance,Hyderabad
+TNS00797,2025/05/31,8,1,Active,2020-01-25,Full-time,Associate,Project Management,Hyderabad
+TNS00798,2025/05/31,1,1,Active,2022-12-19,Full-time,Associate,Engineering,Hyderabad
+TNS00799,2025/05/31,9,1,Active,2024-10-13,Full-time,Lead,Cybersecurity,Hyderabad
+TNS00800,2025/05/31,1,2,Active,2024-10-15,Full-time,Senior,Engineering,Bengaluru
+TNS00801,2025/05/31,5,1,Active,2023-05-24,Full-time,Senior,Finance,Hyderabad
+TNS00802,2025/05/31,4,2,Active,2023-12-07,Full-time,Senior,Human Resources,Bengaluru
+TNS00803,2025/05/31,1,4,Active,2020-01-16,Full-time,Senior,Engineering,Pune
+TNS00804,2025/05/31,2,2,Exited,2020-09-06,Full-time,Entry,IT Support,Bengaluru
+TNS00805,2025/05/31,2,1,Active,2022-09-02,Full-time,Senior,IT Support,Hyderabad
+TNS00806,2025/05/31,10,3,Active,2022-11-18,Full-time,Entry,Operations,Chennai
+TNS00807,2025/05/31,1,2,Active,2025-01-29,Full-time,Senior,Engineering,Bengaluru
+TNS00808,2025/05/31,1,4,Active,2021-07-22,Full-time,Associate,Engineering,Pune
+TNS00809,2025/05/31,4,1,Active,2020-08-12,Full-time,Entry,Human Resources,Hyderabad
+TNS00811,2025/05/31,5,4,Exited,2023-10-20,Full-time,Senior,Finance,Pune
+TNS00812,2025/05/31,6,4,Active,2021-05-29,Full-time,Senior,Sales & Marketing,Pune
+TNS00813,2025/05/31,1,3,Active,2020-02-03,Full-time,Senior,Engineering,Chennai
+TNS00814,2025/05/31,10,2,Active,2024-11-08,Full-time,Entry,Operations,Bengaluru
+TNS00815,2025/05/31,6,1,Active,2025-02-25,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00816,2025/05/31,3,3,Active,2021-12-22,Full-time,Associate,Data & Analytics,Chennai
+TNS00817,2025/05/31,8,2,Active,2023-04-02,Full-time,Lead,Project Management,Bengaluru
+TNS00818,2025/05/31,5,2,Exited,2022-09-04,Full-time,Entry,Finance,Bengaluru
+TNS00819,2025/05/31,1,2,Active,2021-12-15,Contract,Associate,Engineering,Bengaluru
+TNS00820,2025/05/31,8,1,Active,2021-09-01,Full-time,Entry,Project Management,Hyderabad
+TNS00821,2025/05/31,1,1,Active,2023-03-04,Full-time,Entry,Engineering,Hyderabad
+TNS00822,2025/05/31,8,1,Active,2024-09-24,Full-time,Senior,Project Management,Hyderabad
+TNS00823,2025/05/31,10,1,Active,2019-03-05,Full-time,Senior,Operations,Hyderabad
+TNS00824,2025/05/31,7,1,Active,2022-08-20,Full-time,Associate,Quality Assurance,Hyderabad
+TNS00825,2025/05/31,2,1,Active,2021-12-02,Full-time,Lead,IT Support,Hyderabad
+TNS00826,2025/05/31,2,2,Active,2022-09-05,Full-time,Senior,IT Support,Bengaluru
+TNS00827,2025/05/31,3,3,Active,2024-11-28,Full-time,Senior,Data & Analytics,Chennai
+TNS00828,2025/05/31,2,5,Active,2022-04-08,Full-time,Lead,IT Support,Mumbai
+TNS00829,2025/05/31,8,1,Exited,2021-12-05,Full-time,Entry,Project Management,Hyderabad
+TNS00830,2025/05/31,9,3,Active,2020-07-13,Full-time,Senior,Cybersecurity,Chennai
+TNS00831,2025/05/31,9,1,Active,2024-06-03,Full-time,Entry,Cybersecurity,Hyderabad
+TNS00832,2025/05/31,10,3,Active,2019-05-18,Full-time,Entry,Operations,Chennai
+TNS00833,2025/05/31,10,1,Active,2020-11-21,Full-time,Senior,Operations,Hyderabad
+TNS00834,2025/05/31,1,1,Exited,2023-03-23,Full-time,Associate,Engineering,Hyderabad
+TNS00835,2025/05/31,1,1,Active,2022-10-25,Full-time,Manager,Engineering,Hyderabad
+TNS00836,2025/05/31,1,5,Active,2023-05-26,Full-time,Lead,Engineering,Mumbai
+TNS00837,2025/05/31,2,1,Exited,2022-06-15,Full-time,Associate,IT Support,Hyderabad
+TNS00838,2025/05/31,6,1,Active,2023-03-18,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS00839,2025/05/31,6,2,Active,2024-10-29,Intern,Senior,Sales & Marketing,Bengaluru
+TNS00840,2025/05/31,10,1,Active,2021-12-03,Full-time,Senior,Operations,Hyderabad
+TNS00841,2025/05/31,4,1,Exited,2020-01-11,Full-time,Associate,Human Resources,Hyderabad
+TNS00842,2025/05/31,9,4,Active,2021-11-10,Full-time,Associate,Cybersecurity,Pune
+TNS00843,2025/05/31,10,5,Active,2024-12-16,Full-time,Associate,Operations,Mumbai
+TNS00844,2025/05/31,6,1,Active,2019-11-14,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00845,2025/05/31,1,1,Active,2023-10-10,Full-time,Associate,Engineering,Hyderabad
+TNS00846,2025/05/31,1,2,Active,2021-07-30,Full-time,Associate,Engineering,Bengaluru
+TNS00847,2025/05/31,6,1,Active,2019-12-06,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS00848,2025/05/31,3,5,Active,2023-03-01,Full-time,Associate,Data & Analytics,Mumbai
+TNS00849,2025/05/31,1,1,Active,2019-06-05,Full-time,Associate,Engineering,Hyderabad
+TNS00850,2025/05/31,1,1,Active,2021-04-23,Full-time,Manager,Engineering,Hyderabad
+TNS00852,2025/05/31,10,2,Active,2021-11-13,Full-time,Senior,Operations,Bengaluru
+TNS00853,2025/05/31,8,4,Exited,2022-05-02,Contract,Lead,Project Management,Pune
+TNS00854,2025/05/31,8,1,Active,2024-10-06,Contract,Senior,Project Management,Hyderabad
+TNS00855,2025/05/31,1,5,Active,2019-05-11,Full-time,Associate,Engineering ,Mumbai
+TNS00856,2025/05/31,9,1,Active,2025-05-11,Full-time,Associate,Cybersecurity,Hyderabad
+TNS00857,2025/05/31,8,5,Active,2022-05-26,Full-time,Entry,Project Management,Mumbai
+TNS00858,2025/05/31,1,1,Active,2022-08-20,Full-time,Entry,Engineering,Hyderabad
+TNS00859,2025/05/31,1,4,Exited,2019-11-01,Contract,Associate,Engineering,Pune
+TNS00860,2025/05/31,8,5,Exited,2020-01-24,Contract,Associate,Project Management,Mumbai
+TNS00861,2025/05/31,3,1,Active,2020-11-11,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00862,2025/05/31,3,1,Active,2022-02-07,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00863,2025/05/31,10,2,Active,2022-06-30,Full-time,Senior,Operations,Bengaluru
+TNS00864,2025/05/31,1,2,Active,2024-01-24,Full-time,Senior,Engineering,Bengaluru
+TNS00865,2025/05/31,7,3,Active,2024-12-08,Full-time,Associate,Quality Assurance,Chennai
+TNS00866,2025/05/31,3,1,Active,2019-09-02,Intern,Lead,Data & Analytics,Hyderabad
+TNS00867,2025/05/31,2,2,Active,2021-08-04,Full-time,Entry,IT Support,Bengaluru
+TNS00868,2025/05/31,1,1,Active,2020-12-31,Full-time,Senior,Engineering,Hyderabad
+TNS00869,2025/05/31,1,2,Active,2024-11-16,Full-time,Senior,Engineering,Bengaluru
+TNS00870,2025/05/31,9,2,Active,2022-12-10,Full-time,Senior,Cybersecurity,Bengaluru
+TNS00871,2025/05/31,10,1,Exited,2023-11-17,Full-time,Entry,Operations,Hyderabad
+TNS00873,2025/05/31,6,5,Exited,2020-01-24,Full-time,Associate,Sales & Marketing,Mumbai
+TNS00875,2025/05/31,3,2,Active,2025-01-12,Contract,Senior,Data & Analytics,Bengaluru
+TNS00876,2025/05/31,8,1,Active,2020-11-05,Full-time,Entry,Project Management,Hyderabad
+TNS00877,2025/05/31,9,4,Active,2019-11-06,Contract,Senior,Cybersecurity,Pune
+TNS00878,2025/05/31,6,1,Active,2023-05-03,Contract,Entry,Sales & Marketing,Hyderabad
+TNS00879,2025/05/31,1,4,Active,2023-02-27,Full-time,Manager,Engineering,Pune
+TNS00880,2025/05/31,1,1,Active,2025-05-05,Full-time,Entry,Engineering,Hyderabad
+TNS00882,2025/05/31,8,2,Active,2019-09-18,Full-time,Entry,Project Management,Bengaluru
+TNS00883,2025/05/31,10,2,Active,2023-01-16,Full-time,Senior,Operations,Bengaluru
+TNS00884,2025/05/31,4,2,Active,2025-02-11,Full-time,Associate,Human Resources,Bengaluru
+TNS00885,2025/05/31,5,3,Active,2025-05-31,Full-time,Associate,Finance,Chennai
+TNS00886,2025/05/31,7,3,Active,2021-05-27,Intern,Entry,Quality Assurance,Chennai
+TNS00887,2025/05/31,6,4,Active,2019-03-31,Full-time,Entry,Sales & Marketing,Pune
+TNS00888,2025/05/31,5,1,Exited,2019-07-20,Full-time,Associate,Finance,Hyderabad
+TNS00889,2025/05/31,1,5,Active,2023-10-09,Full-time,Manager,Engineering,Mumbai
+TNS00890,2025/05/31,1,5,Active,2023-01-02,Full-time,Lead,Engineering,Mumbai
+TNS00891,2025/05/31,1,1,Active,2024-10-03,Full-time,Associate,Engineering,Hyderabad
+TNS00892,2025/05/31,1,1,Active,2023-07-06,Full-time,Associate,Engineering,Hyderabad
+TNS00893,2025/05/31,4,5,Active,2023-02-06,Full-time,Senior,Human Resources,Mumbai
+TNS00894,2025/05/31,1,1,Active,2020-10-28,Intern,Associate,Engineering,Hyderabad
+TNS00895,2025/05/31,1,4,Active,2022-08-27,Full-time,Lead,Engineering,Pune
+TNS00896,2025/05/31,4,3,Active,2024-11-07,Contract,Senior,Human Resources,Chennai
+TNS00897,2025/05/31,6,2,Active,2022-08-01,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00898,2025/05/31,1,1,Active,2019-09-15,Full-time,Associate,Engineering,Hyderabad
+TNS00899,2025/05/31,6,5,Active,2022-07-21,Full-time,Senior,Sales & Marketing,Mumbai
+TNS00900,2025/05/31,7,1,Exited,2023-07-25,Full-time,Entry,Quality Assurance,Hyderabad
+TNS00901,2025/05/31,5,4,Active,2024-09-13,Full-time,Associate,Finance,Pune
+TNS00902,2025/05/31,10,1,Active,2019-04-23,Full-time,Entry,Operations,Hyderabad
+TNS00903,2025/05/31,6,2,Active,2023-07-11,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS00904,2025/05/31,6,4,Active,2024-02-11,Full-time,Associate,Sales & Marketing,Pune
+TNS00905,2025/05/31,6,5,Active,2023-10-25,Full-time,Entry,Sales & Marketing,Mumbai
+TNS00906,2025/05/31,7,1,Exited,2021-03-17,Full-time,Manager,Quality Assurance,Hyderabad
+TNS00907,2025/05/31,2,2,Exited,2021-08-14,Full-time,Senior,IT Support,Bengaluru
+TNS00908,2025/05/31,6,1,Active,2025-04-09,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00909,2025/05/31,3,5,Active,2023-11-13,Full-time,Lead,Data & Analytics,Mumbai
+TNS00910,2025/05/31,8,4,Active,2019-09-17,Full-time,Associate,Project Management,Pune
+TNS00911,2025/05/31,10,2,Active,2023-08-10,Full-time,Associate,Operations,Bengaluru
+TNS00912,2025/05/31,6,4,Active,2024-12-10,Full-time,Lead,Sales & Marketing,Pune
+TNS00913,2025/05/31,4,1,Active,2022-05-30,Full-time,Senior,Human Resources,Hyderabad
+TNS00914,2025/05/31,6,3,Active,2024-08-26,Full-time,Entry,Sales & Marketing,Chennai
+TNS00915,2025/05/31,1,1,Active,2022-03-07,Intern,Entry,Engineering,Hyderabad
+TNS00916,2025/05/31,2,1,Active,2024-01-18,Full-time,Entry,IT Support,Hyderabad
+TNS00917,2025/05/31,2,4,Active,2024-07-30,Full-time,Senior,IT Support,Pune
+TNS00918,2025/05/31,6,3,Active,2024-09-04,Full-time,Associate,Sales & Marketing,Chennai
+TNS00920,2025/05/31,4,1,Active,2021-10-12,Full-time,Senior,Human Resources,Hyderabad
+TNS00921,2025/05/31,10,2,Active,2020-03-08,Full-time,Associate,Operations,Bengaluru
+TNS00922,2025/05/31,6,1,Active,2024-11-10,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00923,2025/05/31,2,4,Active,2020-01-06,Full-time,Senior,IT Support,Pune
+TNS00924,2025/05/31,10,1,Active,2022-12-26,Full-time,Senior,Operations,Hyderabad
+TNS00925,2025/05/31,4,3,Active,2021-02-28,Full-time,Senior,Human Resources,Chennai
+TNS00926,2025/05/31,5,1,Exited,2020-09-28,Full-time,Senior,Finance,Hyderabad
+TNS00927,2025/05/31,3,1,Active,2025-04-25,Full-time,Lead,Data & Analytics,Hyderabad
+TNS00928,2025/05/31,5,3,Active,2019-12-09,Full-time,Senior,Finance,Chennai
+TNS00929,2025/05/31,1,2,Active,2023-02-05,Full-time,Associate,Engineering,Bengaluru
+TNS00930,2025/05/31,7,4,Active,2024-05-09,Full-time,Associate,Quality Assurance,Pune
+TNS00931,2025/05/31,6,3,Active,2020-06-19,Full-time,Lead,Sales & Marketing,Chennai
+TNS00932,2025/05/31,3,5,Active,2024-06-27,Contract,Senior,Data & Analytics,Mumbai
+TNS00933,2025/05/31,7,1,Active,2020-10-01,Full-time,Associate,Quality Assurance,Hyderabad
+TNS00934,2025/05/31,6,2,Active,2024-08-22,Contract,Associate,Sales & Marketing,Bengaluru
+TNS00936,2025/05/31,8,3,Exited,2021-05-05,Full-time,Manager,Project Management,Chennai
+TNS00937,2025/05/31,10,5,Active,2023-10-13,Full-time,Entry,Operations,Mumbai
+TNS00938,2025/05/31,5,3,Active,2021-04-22,Full-time,Entry,Finance,Chennai
+TNS00939,2025/05/31,1,2,Active,2021-01-09,Full-time,Associate,Engineering,Bengaluru
+TNS00940,2025/05/31,1,2,Active,2019-12-26,Full-time,Associate,Engineering,Bengaluru
+TNS00941,2025/05/31,2,5,Active,2024-03-26,Full-time,Entry,IT Support,Mumbai
+TNS00942,2025/05/31,6,1,Active,2020-08-23,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00943,2025/05/31,3,5,Active,2023-04-17,Full-time,Associate,Data & Analytics,Mumbai
+TNS00944,2025/05/31,2,4,Active,2019-11-21,Full-time,Associate,IT Support,Pune
+TNS00945,2025/05/31,10,1,Active,2019-10-27,Full-time,Senior,Operations,Hyderabad
+TNS00946,2025/05/31,6,2,Active,2023-07-08,Contract,Entry,Sales & Marketing,Bengaluru
+TNS00948,2025/05/31,3,4,Active,2020-02-06,Full-time,Lead,Data & Analytics,Pune
+TNS00949,2025/05/31,1,1,Active,2019-08-27,Full-time,Senior,Engineering,Hyderabad
+TNS00950,2025/05/31,1,1,Active,2025-04-21,Full-time,Associate,Engineering,Hyderabad
+TNS00951,2025/05/31,3,2,Active,2021-03-03,Full-time,Manager,Data & Analytics,Bengaluru
+TNS00952,2025/05/31,1,2,Active,2020-10-30,Full-time,Senior,Engineering,Bengaluru
+TNS00954,2025/05/31,1,2,Active,2023-10-03,Full-time,Senior,Engineering,Bengaluru
+TNS00955,2025/05/31,1,2,Active,2021-02-23,Full-time,Associate,Engineering,Bengaluru
+TNS00956,2025/05/31,6,4,Active,2019-09-14,Full-time,Lead,Sales & Marketing,Pune
+TNS00957,2025/05/31,6,1,Active,2020-04-02,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00958,2025/05/31,7,2,Active,2019-03-19,Full-time,Entry,Quality Assurance,Bengaluru
+TNS00960,2025/05/31,5,4,Active,2021-01-06,Full-time,Entry,Finance,Pune
+TNS00962,2025/05/31,5,2,Exited,2023-07-16,Contract,Lead,Finance,Bengaluru
+TNS00963,2025/05/31,1,1,Active,2020-07-21,Full-time,Lead,Engineering,Hyderabad
+TNS00964,2025/05/31,6,1,Active,2023-10-25,Full-time,Manager,Sales & Marketing,Hyderabad
+TNS00965,2025/05/31,10,4,Active,2019-08-15,Full-time,Senior,Operations,Pune
+TNS00966,2025/05/31,10,1,Active,2019-12-25,Contract,Lead,Operations,Hyderabad
+TNS00967,2025/05/31,8,2,Active,2022-03-20,Full-time,Associate,Project Management,Bengaluru
+TNS00968,2025/05/31,4,1,Active,2020-06-27,Contract,Senior,Human Resources,Hyderabad
+TNS00969,2025/05/31,7,1,Active,2023-03-17,Full-time,Manager,Quality Assurance,Hyderabad
+TNS00970,2025/05/31,10,2,Active,2024-10-13,Full-time,Senior,Operations,Bengaluru
+TNS00971,2025/05/31,9,4,Active,2020-07-05,Full-time,Entry,Cybersecurity,Pune
+TNS00972,2025/05/31,3,3,Active,2020-03-13,Full-time,Lead,Data & Analytics,Chennai
+TNS00973,2025/05/31,1,1,Exited,2020-10-12,Contract,Senior,Engineering,Hyderabad
+TNS00974,2025/05/31,3,1,Active,2021-06-10,Full-time,Associate,Data & Analytics,Hyderabad
+TNS00975,2025/05/31,7,3,Active,2021-02-06,Full-time,Manager,Quality Assurance,Chennai
+TNS00976,2025/05/31,1,2,Active,2023-02-07,Full-time,Associate,Engineering,Bengaluru
+TNS00977,2025/05/31,2,2,Active,2024-09-21,Full-time,Senior,IT Support,Bengaluru
+TNS00978,2025/05/31,3,2,Active,2021-12-28,Full-time,Senior,Data & Analytics,Bengaluru
+TNS00979,2025/05/31,7,3,Active,2020-12-03,Full-time,Senior,Quality Assurance,Chennai
+TNS00980,2025/05/31,8,1,Active,2023-08-04,Full-time,Entry,Project Management,Hyderabad
+TNS00981,2025/05/31,4,4,Active,2019-02-05,Full-time,Associate,Human Resources ,Pune
+TNS00982,2025/05/31,6,1,Active,2024-03-27,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS00983,2025/05/31,8,2,Active,2021-01-17,Full-time,Associate,Project Management,Bengaluru
+TNS00984,2025/05/31,3,4,Active,2023-09-07,Full-time,Lead,Data & Analytics,Pune
+TNS00985,2025/05/31,10,1,Active,2020-12-13,Full-time,Associate,Operations,Hyderabad
+TNS00986,2025/05/31,4,4,Exited,2023-09-04,Full-time,Associate,Human Resources,Pune
+TNS00987,2025/05/31,1,1,Active,2021-02-25,Full-time,Senior,Engineering,Hyderabad
+TNS00988,2025/05/31,10,2,Active,2023-07-15,Full-time,Associate,Operations,Bengaluru
+TNS00989,2025/05/31,8,2,Exited,2022-12-17,Full-time,Entry,Project Management,Bengaluru
+TNS00990,2025/05/31,2,2,Active,2023-11-24,Full-time,Associate,IT Support,Bengaluru
+TNS00991,2025/05/31,6,2,Exited,2020-08-19,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS00992,2025/05/31,2,1,Active,2021-04-09,Full-time,Associate,IT Support,Hyderabad
+TNS00993,2025/05/31,3,2,Exited,2019-09-17,Contract,Entry,Data & Analytics,Bengaluru
+TNS00994,2025/05/31,6,1,Active,2019-08-06,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS00996,2025/05/31,3,2,Active,2019-01-17,Full-time,Entry,Data & Analytics,Bengaluru
+TNS00997,2025/05/31,10,3,Active,2024-12-12,Full-time,Entry,Operations,Chennai
+TNS01000,2025/05/31,6,4,Exited,2021-05-12,Full-time,Entry,Sales & Marketing,Pune
+TNS01001,2025/05/31,2,1,Exited,2022-12-08,Full-time,Entry,IT Support,Hyderabad
+TNS01002,2025/05/31,3,4,Active,2023-08-15,Full-time,Associate,Data & Analytics,Pune
+TNS01004,2025/05/31,5,5,Active,2020-01-12,Contract,Associate,Finance,Mumbai
+TNS01006,2025/05/31,6,5,Active,2024-05-17,Full-time,Lead,Sales & Marketing,Mumbai
+TNS01007,2025/05/31,7,4,Exited,2021-06-06,Full-time,Lead,Quality Assurance,Pune
+TNS01010,2025/05/31,6,5,Exited,2021-05-10,Full-time,Senior,Sales & Marketing,Mumbai
+TNS01011,2025/05/31,5,1,Exited,2019-07-20,Full-time,Entry,Finance,Hyderabad
+TNS01012,2025/05/31,4,4,Exited,2021-03-05,Full-time,Associate,Human Resources,Pune
+TNS01013,2025/05/31,5,3,Exited,2022-12-17,Full-time,Associate,Finance,Chennai
+TNS01014,2025/05/31,1,1,Active,2019-07-01,Full-time,Associate,Engineering,Hyderabad
+TNS01015,2025/05/31,10,2,Active,2024-01-01,Full-time,Associate,Operations,Bengaluru
+TNS01016,2025/05/31,4,1,Active,2019-06-10,Full-time,Manager,Human Resources,Hyderabad
+TNS01017,2025/05/31,5,2,Exited,2021-01-28,Full-time,Entry,Finance,Bengaluru
+TNS01018,2025/05/31,2,3,Active,2019-12-06,Contract,Entry,IT Support,Chennai
+TNS01019,2025/05/31,5,1,Active,2024-12-06,Full-time,Associate,Finance,Hyderabad
+TNS01020,2025/05/31,9,1,Active,2020-07-25,Full-time,Associate,Cybersecurity,Hyderabad
+TNS01021,2025/05/31,6,2,Active,2021-10-19,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS01022,2025/05/31,7,2,Active,2020-11-10,Full-time,Manager,Quality Assurance,Bengaluru
+TNS01023,2025/05/31,3,1,Active,2021-05-04,Full-time,Senior,Data & Analytics,Hyderabad
+TNS01024,2025/05/31,5,1,Active,2022-08-31,Full-time,Associate,Finance,Hyderabad
+TNS01025,2025/05/31,1,3,Active,2025-04-11,Full-time,Entry,Engineering,Chennai
+TNS01026,2025/05/31,9,1,Active,2023-02-04,Contract,Senior,Cybersecurity,Hyderabad
+TNS01027,2025/05/31,6,1,Active,2021-08-27,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01028,2025/05/31,1,2,Active,2020-10-02,Full-time,Senior,Engineering,Bengaluru
+TNS01029,2025/05/31,6,3,Active,2023-10-10,Full-time,Senior,Sales & Marketing,Chennai
+TNS01030,2025/05/31,6,1,Active,2020-07-03,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS01031,2025/05/31,10,1,Active,2022-02-21,Full-time,Entry,Operations,Hyderabad
+TNS01032,2025/05/31,3,2,Active,2023-07-20,Full-time,Lead,Data & Analytics,Bengaluru
+TNS01033,2025/05/31,6,2,Active,2024-12-24,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS01034,2025/05/31,7,3,Active,2020-11-20,Full-time,Entry,Quality Assurance,Chennai
+TNS01035,2025/05/31,2,3,Active,2021-09-08,Full-time,Senior,IT Support,Chennai
+TNS01036,2025/05/31,1,1,Active,2022-09-02,Full-time,Senior,Engineering,Hyderabad
+TNS01037,2025/05/31,1,3,Exited,2020-06-04,Contract,Entry,Engineering,Chennai
+TNS01038,2025/05/31,7,2,Active,2020-12-22,Full-time,Associate,Quality Assurance,Bengaluru
+TNS01039,2025/05/31,1,4,Active,2019-02-22,Full-time,Associate,Engineering,Pune
+TNS01040,2025/05/31,6,1,Active,2019-09-22,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01041,2025/05/31,9,5,Active,2024-11-18,Full-time,Associate,Cybersecurity,Mumbai
+TNS01042,2025/05/31,7,4,Active,2019-12-03,Full-time,Lead,Quality Assurance,Pune
+TNS01043,2025/05/31,9,1,Active,2023-08-20,Full-time,Senior,Cybersecurity,Hyderabad
+TNS01044,2025/05/31,3,4,Active,2022-05-09,Full-time,Senior,Data & Analytics,Pune
+TNS01046,2025/05/31,9,1,Exited,2019-11-01,Full-time,Associate,Cybersecurity,Hyderabad
+TNS01049,2025/05/31,6,2,Active,2019-02-22,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS01050,2025/05/31,10,3,Active,2019-08-17,Full-time,Entry,Operations,Chennai
+TNS01052,2025/05/31,6,3,Active,2024-08-03,Intern,Lead,Sales & Marketing ,Chennai
+TNS01053,2025/05/31,1,1,Active,2024-07-27,Full-time,Entry,Engineering,Hyderabad
+TNS01056,2025/05/31,6,2,Active,2019-02-07,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS01057,2025/05/31,1,1,Exited,2020-02-26,Full-time,Senior,Engineering,Hyderabad
+TNS01058,2025/05/31,2,1,Active,2023-03-19,Full-time,Associate,IT Support,Hyderabad
+TNS01059,2025/05/31,1,4,Active,2021-06-28,Intern,Lead,Engineering,Pune
+TNS01060,2025/05/31,3,3,Active,2021-03-24,Full-time,Entry,Data & Analytics,Chennai
+TNS01061,2025/05/31,4,4,Exited,2020-10-02,Full-time,Senior,Human Resources,Pune
+TNS01062,2025/05/31,1,5,Active,2019-05-01,Contract,Senior,Engineering,Mumbai
+TNS01063,2025/05/31,7,2,Active,2021-02-02,Full-time,Senior,Quality Assurance,Bengaluru
+TNS01064,2025/05/31,1,5,Active,2022-11-11,Intern,Associate,Engineering,Mumbai
+TNS01066,2025/05/31,7,1,Active,2022-09-24,Contract,Associate,Quality Assurance,Hyderabad
+TNS01068,2025/05/31,8,1,Exited,2024-04-07,Full-time,Entry,Project Management,Hyderabad
+TNS01069,2025/05/31,8,5,Active,2020-02-15,Contract,Entry,Project Management,Mumbai
+TNS01070,2025/05/31,6,3,Active,2023-05-21,Full-time,Associate,Sales & Marketing,Chennai
+TNS01071,2025/05/31,6,2,Exited,2022-04-13,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS01072,2025/05/31,5,1,Active,2020-10-07,Full-time,Associate,Finance,Hyderabad
+TNS01073,2025/05/31,7,3,Active,2022-07-10,Intern,Senior,Quality Assurance,Chennai
+TNS01074,2025/05/31,3,4,Active,2025-03-20,Full-time,Entry,Data & Analytics,Pune
+TNS01076,2025/05/31,1,5,Exited,2022-06-19,Intern,Entry,Engineering,Mumbai
+TNS01077,2025/05/31,8,2,Active,2022-06-13,Full-time,Entry,Project Management,Bengaluru
+TNS01078,2025/05/31,1,1,Exited,2020-01-03,Full-time,Entry,Engineering,Hyderabad
+TNS01079,2025/05/31,3,1,Active,2022-04-27,Full-time,Associate,Data & Analytics,Hyderabad
+TNS01081,2025/05/31,1,4,Active,2023-10-21,Full-time,Entry,Engineering,Pune
+TNS01082,2025/05/31,10,1,Active,2024-06-03,Full-time,Senior,Operations,Hyderabad
+TNS01083,2025/05/31,1,1,Active,2024-04-16,Full-time,Senior,Engineering,Hyderabad
+TNS01084,2025/05/31,1,2,Active,2020-09-06,Full-time,Associate,Engineering,Bengaluru
+TNS01086,2025/05/31,1,4,Active,2023-06-19,Full-time,Entry,Engineering,Pune
+TNS01087,2025/05/31,1,4,Active,2024-01-05,Full-time,Associate,Engineering,Pune
+TNS01088,2025/05/31,8,1,Active,2024-01-03,Full-time,Senior,Project Management,Hyderabad
+TNS01089,2025/05/31,1,1,Active,2024-02-06,Full-time,Associate,Engineering,Hyderabad
+TNS01090,2025/05/31,4,3,Active,2024-10-28,Full-time,Associate,Human Resources,Chennai
+TNS01091,2025/05/31,7,3,Active,2019-02-26,Full-time,Associate,Quality Assurance,Chennai
+TNS01092,2025/05/31,6,1,Active,2024-09-27,Contract,Lead,Sales & Marketing,Hyderabad
+TNS01093,2025/05/31,6,1,Exited,2022-05-31,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS01094,2025/05/31,10,1,Active,2020-03-16,Contract,Associate,Operations,Hyderabad
+TNS01095,2025/05/31,7,4,Active,2022-09-10,Contract,Entry,Quality Assurance,Pune
+TNS01096,2025/05/31,6,5,Active,2022-09-07,Full-time,Entry,Sales & Marketing,Mumbai
+TNS01097,2025/05/31,2,4,Active,2020-12-22,Full-time,Associate,IT Support,Pune
+TNS01098,2025/05/31,3,1,Exited,2021-09-18,Full-time,Entry,Data & Analytics,Hyderabad
+TNS01099,2025/05/31,4,2,Active,2024-03-24,Contract,Senior,Human Resources,Bengaluru
+TNS01100,2025/05/31,6,2,Active,2019-02-12,Contract,Lead,Sales & Marketing,Bengaluru
+TNS01101,2025/05/31,1,3,Active,2020-09-17,Contract,Associate,Engineering,Chennai
+TNS01102,2025/05/31,3,4,Active,2025-01-06,Full-time,Senior,Data & Analytics,Pune
+TNS01103,2025/05/31,1,3,Active,2024-08-28,Full-time,Senior,Engineering,Chennai
+TNS01104,2025/05/31,2,3,Active,2019-03-22,Contract,Entry,IT Support,Chennai
+TNS01105,2025/05/31,2,4,Exited,2020-03-29,Intern,Entry,IT Support,Pune
+TNS01106,2025/05/31,6,2,Active,2023-09-30,Full-time,Lead,Sales & Marketing,Bengaluru
+TNS01107,2025/05/31,2,2,Active,2019-08-26,Full-time,Entry,IT Support,Bengaluru
+TNS01108,2025/05/31,4,1,Active,2024-08-06,Full-time,Entry,Human Resources,Hyderabad
+TNS01109,2025/05/31,10,1,Active,2023-08-31,Full-time,Entry,Operations,Hyderabad
+TNS01110,2025/05/31,7,4,Active,2022-03-22,Full-time,Senior,Quality Assurance,Pune
+TNS01111,2025/05/31,8,1,Active,2022-08-18,Full-time,Senior,Project Management,Hyderabad
+TNS01112,2025/05/31,10,2,Exited,2021-04-06,Full-time,Associate,Operations,Bengaluru
+TNS01113,2025/05/31,6,2,Active,2020-09-23,Contract,Entry,Sales & Marketing,Bengaluru
+TNS01114,2025/05/31,2,1,Active,2024-02-15,Full-time,Entry,IT Support,Hyderabad
+TNS01115,2025/05/31,1,3,Active,2023-08-26,Full-time,Lead,Engineering,Chennai
+TNS01116,2025/05/31,1,2,Active,2025-05-08,Intern,Manager,Engineering,Bengaluru
+TNS01117,2025/05/31,2,3,Active,2024-10-09,Full-time,Entry,IT Support,Chennai
+TNS01118,2025/05/31,4,5,Active,2020-04-11,Full-time,Entry,Human Resources,Mumbai
+TNS01119,2025/05/31,2,1,Active,2021-09-06,Full-time,Entry,IT Support,Hyderabad
+TNS01120,2025/05/31,10,2,Active,2021-05-12,Full-time,Associate,Operations,Bengaluru
+TNS01121,2025/05/31,7,2,Active,2023-03-13,Full-time,Senior,Quality Assurance,Bengaluru
+TNS01122,2025/05/31,3,5,Active,2021-01-08,Full-time,Lead,Data & Analytics,Mumbai
+TNS01123,2025/05/31,9,5,Active,2022-06-11,Contract,Senior,Cybersecurity,Mumbai
+TNS01124,2025/05/31,3,4,Active,2023-04-26,Full-time,Entry,Data & Analytics,Pune
+TNS01125,2025/05/31,8,5,Active,2020-11-15,Full-time,Senior,Project Management,Mumbai
+TNS01126,2025/05/31,1,5,Active,2019-12-24,Full-time,Entry,Engineering,Mumbai
+TNS01127,2025/05/31,1,3,Active,2023-06-11,Full-time,Lead,Engineering,Chennai
+TNS01128,2025/05/31,6,2,Active,2019-03-07,Intern,Associate,Sales & Marketing,Bengaluru
+TNS01129,2025/05/31,6,2,Active,2020-07-06,Intern,Lead,Sales & Marketing,Bengaluru
+TNS01131,2025/05/31,1,2,Active,2019-07-01,Full-time,Manager,Engineering,Bengaluru
+TNS01132,2025/05/31,1,5,Active,2024-09-12,Full-time,Associate,Engineering,Mumbai
+TNS01133,2025/05/31,7,2,Active,2024-01-16,Full-time,Lead,Quality Assurance,Bengaluru
+TNS01135,2025/05/31,2,2,Active,2020-12-15,Full-time,Entry,IT Support,Bengaluru
+TNS01136,2025/05/31,6,1,Active,2020-09-17,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01137,2025/05/31,1,2,Active,2025-03-13,Full-time,Lead,Engineering,Bengaluru
+TNS01138,2025/05/31,2,2,Active,2023-04-29,Full-time,Lead,IT Support,Bengaluru
+TNS01139,2025/05/31,1,1,Active,2020-12-14,Full-time,Entry,Engineering,Hyderabad
+TNS01140,2025/05/31,1,2,Active,2022-09-01,Contract,Senior,Engineering,Bengaluru
+TNS01141,2025/05/31,4,5,Active,2020-10-02,Contract,Associate,Human Resources,Mumbai
+TNS01142,2025/05/31,1,2,Active,2022-03-07,Full-time,Senior,Engineering,Bengaluru
+TNS01143,2025/05/31,5,2,Active,2022-03-09,Full-time,Associate,Finance,Bengaluru
+TNS01144,2025/05/31,1,4,Active,2023-03-01,Full-time,Manager,Engineering,Pune
+TNS01145,2025/05/31,1,2,Active,2024-09-17,Full-time,Manager,Engineering,Bengaluru
+TNS01147,2025/05/31,6,4,Active,2021-12-16,Contract,Entry,Sales & Marketing,Pune
+TNS01148,2025/05/31,3,5,Active,2022-12-02,Full-time,Senior,Data & Analytics,Mumbai
+TNS01149,2025/05/31,4,1,Active,2019-02-28,Full-time,Senior,Human Resources,Hyderabad
+TNS01150,2025/05/31,1,2,Active,2022-01-19,Full-time,Entry,Engineering,Bengaluru
+TNS01151,2025/05/31,1,4,Exited,2023-06-26,Full-time,Senior,Engineering,Pune
+TNS01153,2025/05/31,6,5,Exited,2022-03-02,Full-time,Entry,Sales & Marketing,Mumbai
+TNS01154,2025/05/31,7,1,Active,2021-02-03,Full-time,Associate,Quality Assurance,Hyderabad
+TNS01155,2025/05/31,1,2,Active,2023-11-11,Full-time,Senior,Engineering,Bengaluru
+TNS01156,2025/05/31,10,1,Active,2024-08-29,Full-time,Senior,Operations,Hyderabad
+TNS01158,2025/05/31,6,2,Active,2024-02-13,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS01159,2025/05/31,8,3,Active,2021-09-16,Full-time,Manager,Project Management,Chennai
+TNS01160,2025/05/31,1,5,Active,2019-08-03,Full-time,Lead,Engineering,Mumbai
+TNS01162,2025/05/31,7,4,Active,2020-08-10,Full-time,Senior,Quality Assurance,Pune
+TNS01163,2025/05/31,8,4,Active,2019-10-10,Full-time,Associate,Project Management,Pune
+TNS01164,2025/05/31,6,2,Active,2020-02-18,Full-time,Associate,Sales & Marketing,Bengaluru
+TNS01165,2025/05/31,3,2,Active,2024-07-29,Full-time,Entry,Data & Analytics,Bengaluru
+TNS01166,2025/05/31,10,4,Active,2024-03-06,Full-time,Senior,Operations,Pune
+TNS01167,2025/05/31,6,2,Active,2024-06-30,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS01168,2025/05/31,8,2,Active,2021-06-23,Full-time,Senior,Project Management,Bengaluru
+TNS01169,2025/05/31,8,5,Active,2023-06-03,Full-time,Associate,Project Management,Mumbai
+TNS01170,2025/05/31,4,2,Exited,2020-05-07,Full-time,Associate,Human Resources,Bengaluru
+TNS01171,2025/05/31,3,2,Exited,2019-11-06,Contract,Associate,Data & Analytics,Bengaluru
+TNS01172,2025/05/31,7,4,Exited,2019-02-04,Full-time,Associate,Quality Assurance,Pune
+TNS01173,2025/05/31,2,5,Exited,2022-04-28,Full-time,Entry,IT Support,Mumbai
+TNS01174,2025/05/31,1,1,Active,2022-05-24,Contract,Entry,Engineering,Hyderabad
+TNS01175,2025/05/31,8,3,Active,2024-06-27,Full-time,Senior,Project Management,Chennai
+TNS01176,2025/05/31,10,4,Active,2025-05-10,Full-time,Manager,Operations,Pune
+TNS01178,2025/05/31,5,1,Active,2024-06-22,Full-time,Entry,Finance,Hyderabad
+TNS01180,2025/05/31,1,3,Active,2022-03-22,Full-time,Associate,Engineering,Chennai
+TNS01181,2025/05/31,3,2,Active,2021-12-14,Full-time,Associate,Data & Analytics,Bengaluru
+TNS01182,2025/05/31,1,1,Active,2022-11-18,Full-time,Associate,Engineering,Hyderabad
+TNS01183,2025/05/31,2,1,Active,2020-05-20,Full-time,Senior,IT Support,Hyderabad
+TNS01184,2025/05/31,4,1,Active,2023-12-15,Contract,Senior,Human Resources,Hyderabad
+TNS01185,2025/05/31,9,1,Active,2021-08-14,Full-time,Senior,Cybersecurity,Hyderabad
+TNS01186,2025/05/31,3,2,Active,2023-08-17,Full-time,Entry,Data & Analytics,Bengaluru
+TNS01187,2025/05/31,5,1,Active,2019-09-18,Full-time,Senior,Finance,Hyderabad
+TNS01188,2025/05/31,1,2,Active,2019-02-12,Full-time,Entry,Engineering,Bengaluru
+TNS01189,2025/05/31,6,1,Exited,2024-05-17,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS01190,2025/05/31,3,4,Active,2021-07-05,Full-time,Associate,Data & Analytics,Pune
+TNS01192,2025/05/31,7,1,Exited,2020-11-20,Full-time,Associate,Quality Assurance,Hyderabad
+TNS01193,2025/05/31,10,2,Active,2024-07-24,Full-time,Senior,Operations,Bengaluru
+TNS01194,2025/05/31,3,4,Active,2023-02-19,Full-time,Lead,Data & Analytics,Pune
+TNS01195,2025/05/31,6,2,Active,2023-08-18,Contract,Senior,Sales & Marketing,Bengaluru
+TNS01196,2025/05/31,6,5,Active,2023-05-25,Full-time,Lead,Sales & Marketing,Mumbai
+TNS01197,2025/05/31,4,5,Active,2025-01-21,Full-time,Lead,Human Resources,Mumbai
+TNS01198,2025/05/31,10,1,Active,2025-04-06,Full-time,Senior,Operations,Hyderabad
+TNS01199,2025/05/31,9,1,Active,2019-10-25,Full-time,Lead,Cybersecurity,Hyderabad
+TNS01200,2025/05/31,3,2,Active,2024-10-28,Full-time,Associate,Data & Analytics,Bengaluru
+TNS01201,2025/05/31,6,1,Active,2019-07-19,Full-time,Associate,Sales & Marketing,Hyderabad
+TNS01202,2025/05/31,8,3,Active,2025-01-11,Contract,Associate,Project Management,Chennai
+TNS01203,2025/05/31,8,1,Active,2019-05-06,Full-time,Senior,Project Management,Hyderabad
+TNS01205,2025/05/31,5,1,Active,2023-05-09,Full-time,Associate,Finance,Hyderabad
+TNS01207,2025/05/31,3,5,Active,2020-08-07,Full-time,Entry,Data & Analytics,Mumbai
+TNS01208,2025/05/31,1,4,Active,2024-02-07,Full-time,Senior,Engineering,Pune
+TNS01209,2025/05/31,4,4,Active,2025-03-21,Full-time,Associate,Human Resources,Pune
+TNS01210,2025/05/31,8,1,Active,2022-09-29,Full-time,Entry,Project Management,Hyderabad
+TNS01211,2025/05/31,1,1,Active,2020-02-07,Intern,Manager,Engineering,Hyderabad
+TNS01212,2025/05/31,2,2,Active,2020-08-05,Full-time,Entry,IT Support,Bengaluru
+TNS01213,2025/05/31,2,2,Active,2023-09-02,Contract,Associate,IT Support,Bengaluru
+TNS01214,2025/05/31,10,3,Active,2025-01-26,Contract,Manager,Operations,Chennai
+TNS01215,2025/05/31,2,1,Active,2025-02-04,Full-time,Associate,IT Support,Hyderabad
+TNS01216,2025/05/31,8,1,Active,2025-04-20,Full-time,Lead,Project Management,Hyderabad
+TNS01217,2025/05/31,2,2,Active,2024-09-10,Contract,Entry,IT Support,Bengaluru
+TNS01218,2025/05/31,3,4,Active,2019-04-19,Contract,Associate,Data & Analytics,Pune
+TNS01219,2025/05/31,7,3,Active,2020-04-27,Full-time,Senior,Quality Assurance,Chennai
+TNS01220,2025/05/31,6,3,Active,2024-11-11,Full-time,Lead,Sales & Marketing,Chennai
+TNS01221,2025/05/31,5,1,Active,2020-09-27,Contract,Entry,Finance,Hyderabad
+TNS01222,2025/05/31,1,1,Active,2023-03-31,Contract,Entry,Engineering,Hyderabad
+TNS01223,2025/05/31,1,2,Active,2025-02-22,Contract,Lead,Engineering,Bengaluru
+TNS01225,2025/05/31,8,1,Active,2022-08-29,Full-time,Senior,Project Management,Hyderabad
+TNS01226,2025/05/31,7,2,Active,2021-02-23,Full-time,Manager,Quality Assurance,Bengaluru
+TNS01227,2025/05/31,6,5,Active,2023-07-03,Full-time,Senior,Sales & Marketing,Mumbai
+TNS01229,2025/05/31,2,1,Exited,2021-09-25,Full-time,Associate,IT Support,Hyderabad
+TNS01230,2025/05/31,5,1,Active,2025-02-09,Contract,Senior,Finance,Hyderabad
+TNS01231,2025/05/31,8,1,Active,2019-06-23,Full-time,Entry,Project Management,Hyderabad
+TNS01232,2025/05/31,1,4,Active,2021-09-06,Full-time,Lead,Engineering,Pune
+TNS01233,2025/05/31,7,1,Exited,2021-11-02,Full-time,Associate,Quality Assurance,Hyderabad
+TNS01234,2025/05/31,1,3,Active,2023-02-17,Full-time,Associate,Engineering,Chennai
+TNS01235,2025/05/31,8,2,Active,2022-11-10,Full-time,Senior,Project Management,Bengaluru
+TNS01236,2025/05/31,3,2,Active,2025-04-09,Full-time,Senior,Data & Analytics,Bengaluru
+TNS01237,2025/05/31,6,5,Active,2020-01-17,Full-time,Manager,Sales & Marketing,Mumbai
+TNS01238,2025/05/31,1,1,Exited,2024-07-14,Full-time,Associate,Engineering,Hyderabad
+TNS01239,2025/05/31,5,2,Active,2022-10-18,Full-time,Senior,Finance,Bengaluru
+TNS01240,2025/05/31,8,3,Active,2020-11-10,Full-time,Associate,Project Management,Chennai
+TNS01241,2025/05/31,9,4,Exited,2021-01-21,Full-time,Associate,Cybersecurity,Pune
+TNS01242,2025/05/31,4,3,Active,2024-02-02,Full-time,Entry,Human Resources,Chennai
+TNS01243,2025/05/31,1,3,Active,2025-04-30,Full-time,Entry,Engineering,Chennai
+TNS01245,2025/05/31,4,2,Exited,2024-01-16,Full-time,Senior,Human Resources,Bengaluru
+TNS01246,2025/05/31,8,4,Active,2024-03-16,Full-time,Associate,Project Management,Pune
+TNS01247,2025/05/31,5,2,Active,2025-03-17,Full-time,Senior,Finance,Bengaluru
+TNS01248,2025/05/31,6,2,Exited,2019-04-24,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS01249,2025/05/31,1,1,Active,2021-05-30,Full-time,Senior,Engineering,Hyderabad
+TNS01250,2025/05/31,6,4,Active,2025-05-11,Full-time,Associate,Sales & Marketing,Pune
+TNS01252,2025/05/31,3,1,Active,2019-02-20,Full-time,Associate,Data & Analytics,Hyderabad
+TNS01253,2025/05/31,10,2,Active,2021-12-21,Full-time,Associate,Operations,Bengaluru
+TNS01254,2025/05/31,4,5,Active,2024-03-08,Contract,Lead,Human Resources,Mumbai
+TNS01255,2025/05/31,3,2,Active,2023-12-12,Full-time,Associate,Data & Analytics,Bengaluru
+TNS01256,2025/05/31,4,2,Active,2023-01-08,Full-time,Lead,Human Resources,Bengaluru
+TNS01257,2025/05/31,2,1,Active,2025-01-08,Full-time,Entry,IT Support,Hyderabad
+TNS01258,2025/05/31,4,1,Active,2020-08-04,Full-time,Associate,Human Resources,Hyderabad
+TNS01259,2025/05/31,1,5,Active,2025-02-14,Full-time,Associate,Engineering,Mumbai
+TNS01260,2025/05/31,6,1,Active,2024-10-17,Contract,Associate,Sales & Marketing,Hyderabad
+TNS01262,2025/05/31,7,2,Active,2019-10-30,Full-time,Lead,Quality Assurance,Bengaluru
+TNS01263,2025/05/31,3,1,Exited,2024-03-18,Full-time,Manager,Data & Analytics,Hyderabad
+TNS01264,2025/05/31,6,4,Active,2025-04-18,Full-time,Entry,Sales & Marketing,Pune
+TNS01265,2025/05/31,3,2,Active,2025-01-28,Full-time,Senior,Data & Analytics,Bengaluru
+TNS01266,2025/05/31,7,1,Exited,2024-08-11,Full-time,Senior,Quality Assurance,Hyderabad
+TNS01267,2025/05/31,2,1,Active,2024-02-19,Full-time,Senior,IT Support,Hyderabad
+TNS01268,2025/05/31,1,4,Active,2024-08-17,Full-time,Senior,Engineering,Pune
+TNS01269,2025/05/31,10,1,Exited,2022-02-11,Contract,Associate,Operations,Hyderabad
+TNS01270,2025/05/31,6,1,Active,2022-10-17,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS01271,2025/05/31,1,2,Active,2019-12-19,Full-time,Lead,Engineering,Bengaluru
+TNS01272,2025/05/31,3,1,Active,2023-02-02,Full-time,Entry,Data & Analytics ,Hyderabad
+TNS01273,2025/05/31,2,1,Active,2019-07-11,Intern,Associate,IT Support,Hyderabad
+TNS01274,2025/05/31,3,2,Active,2020-11-02,Full-time,Senior,Data & Analytics,Bengaluru
+TNS01275,2025/05/31,1,4,Active,2020-08-18,Full-time,Senior,Engineering,Pune
+TNS01276,2025/05/31,1,1,Active,2023-01-26,Full-time,Manager,Engineering,Hyderabad
+TNS01277,2025/05/31,10,3,Exited,2023-10-08,Contract,Entry,Operations,Chennai
+TNS01278,2025/05/31,1,4,Active,2021-10-04,Full-time,Entry,Engineering,Pune
+TNS01279,2025/05/31,4,3,Active,2024-02-07,Contract,Senior,Human Resources,Chennai
+TNS01280,2025/05/31,1,2,Active,2024-08-04,Full-time,Lead,Engineering,Bengaluru
+TNS01281,2025/05/31,9,5,Active,2020-05-10,Full-time,Entry,Cybersecurity,Mumbai
+TNS01282,2025/05/31,2,4,Active,2019-01-12,Full-time,Associate,IT Support,Pune
+TNS01283,2025/05/31,10,3,Active,2019-06-05,Full-time,Senior,Operations,Chennai
+TNS01285,2025/05/31,4,4,Exited,2022-08-27,Full-time,Entry,Human Resources,Pune
+TNS01286,2025/05/31,6,1,Active,2020-01-21,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS01287,2025/05/31,4,1,Active,2024-02-21,Full-time,Lead,Human Resources,Hyderabad
+TNS01289,2025/05/31,7,1,Active,2020-05-16,Contract,Senior,Quality Assurance,Hyderabad
+TNS01290,2025/05/31,6,2,Active,2023-03-08,Full-time,Lead,Sales & Marketing,Bengaluru
+TNS01291,2025/05/31,6,5,Active,2019-06-25,Full-time,Lead,Sales & Marketing,Mumbai
+TNS01292,2025/05/31,1,2,Active,2025-02-24,Full-time,Entry,Engineering,Bengaluru
+TNS01294,2025/05/31,4,3,Exited,2020-01-15,Full-time,Associate,Human Resources,Chennai
+TNS01295,2025/05/31,9,2,Active,2025-04-24,Full-time,Entry,Cybersecurity,Bengaluru
+TNS01296,2025/05/31,6,1,Active,2025-02-02,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01298,2025/05/31,2,1,Active,2022-02-21,Full-time,Senior,IT Support,Hyderabad
+TNS01299,2025/05/31,6,1,Active,2024-02-26,Contract,Entry,Sales & Marketing,Hyderabad
+TNS01300,2025/05/31,8,2,Active,2019-05-21,Full-time,Manager,Project Management,Bengaluru
+TNS01301,2025/05/31,1,1,Active,2023-07-20,Full-time,Lead,Engineering,Hyderabad
+TNS01302,2025/05/31,1,1,Active,2021-09-01,Full-time,Lead,Engineering,Hyderabad
+TNS01303,2025/05/31,2,2,Active,2020-08-14,Full-time,Lead,IT Support,Bengaluru
+TNS01304,2025/05/31,1,2,Active,2025-02-20,Full-time,Senior,Engineering,Bengaluru
+TNS01305,2025/05/31,9,4,Active,2019-01-05,Contract,Associate,Cybersecurity,Pune
+TNS01306,2025/05/31,7,5,Exited,2021-12-01,Full-time,Senior,Quality Assurance,Mumbai
+TNS01307,2025/05/31,1,4,Active,2025-03-29,Full-time,Entry,Engineering,Pune
+TNS01308,2025/05/31,6,1,Active,2024-07-19,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01309,2025/05/31,1,4,Active,2023-12-07,Full-time,Senior,Engineering,Pune
+TNS01310,2025/05/31,5,1,Exited,2024-11-23,Full-time,Entry,Finance,Hyderabad
+TNS01312,2025/05/31,1,3,Exited,2020-07-28,Contract,Lead,Engineering,Chennai
+TNS01313,2025/05/31,3,1,Active,2022-04-05,Full-time,Manager,Data & Analytics,Hyderabad
+TNS01314,2025/05/31,2,2,Active,2025-03-10,Full-time,Associate,IT Support,Bengaluru
+TNS01315,2025/05/31,3,1,Active,2024-10-09,Full-time,Associate,Data & Analytics,Hyderabad
+TNS01316,2025/05/31,9,3,Active,2021-02-26,Full-time,Entry,Cybersecurity,Chennai
+TNS01317,2025/05/31,1,3,Active,2024-08-08,Full-time,Entry,Engineering,Chennai
+TNS01319,2025/05/31,1,3,Active,2021-11-05,Full-time,Associate,Engineering,Chennai
+TNS01320,2025/05/31,1,3,Exited,2019-10-31,Intern,Manager,Engineering,Chennai
+TNS01321,2025/05/31,7,1,Active,2022-07-21,Full-time,Entry,Quality Assurance,Hyderabad
+TNS01322,2025/05/31,3,2,Active,2019-10-04,Full-time,Associate,Data & Analytics,Bengaluru
+TNS01323,2025/05/31,3,4,Active,2023-10-19,Full-time,Entry,Data & Analytics,Pune
+TNS01324,2025/05/31,1,4,Active,2019-01-30,Contract,Associate,Engineering,Pune
+TNS01325,2025/05/31,6,1,Active,2022-07-13,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS01326,2025/05/31,9,3,Active,2022-02-18,Full-time,Entry,Cybersecurity,Chennai
+TNS01327,2025/05/31,6,2,Active,2019-11-03,Full-time,Manager,Sales & Marketing,Bengaluru
+TNS01328,2025/05/31,10,3,Active,2022-06-25,Full-time,Senior,Operations,Chennai
+TNS01329,2025/05/31,4,2,Active,2023-11-03,Full-time,Senior,Human Resources,Bengaluru
+TNS01330,2025/05/31,1,1,Active,2022-01-18,Full-time,Entry,Engineering,Hyderabad
+TNS01331,2025/05/31,6,5,Active,2022-01-28,Intern,Entry,Sales & Marketing,Mumbai
+TNS01332,2025/05/31,1,1,Active,2021-07-11,Intern,Associate,Engineering,Hyderabad
+TNS01333,2025/05/31,9,5,Active,2019-09-01,Full-time,Entry,Cybersecurity,Mumbai
+TNS01334,2025/05/31,10,5,Exited,2021-01-29,Full-time,Associate,Operations,Mumbai
+TNS01336,2025/05/31,6,2,Exited,2022-01-04,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS01337,2025/05/31,6,1,Active,2022-01-13,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01338,2025/05/31,2,1,Active,2020-10-23,Full-time,Entry,IT Support,Hyderabad
+TNS01339,2025/05/31,3,3,Active,2022-05-07,Full-time,Lead,Data & Analytics,Chennai
+TNS01340,2025/05/31,7,4,Exited,2024-10-03,Full-time,Senior,Quality Assurance,Pune
+TNS01341,2025/05/31,1,2,Active,2022-02-11,Full-time,Associate,Engineering,Bengaluru
+TNS01342,2025/05/31,9,2,Active,2022-11-12,Full-time,Lead,Cybersecurity,Bengaluru
+TNS01343,2025/05/31,3,1,Active,2021-08-16,Contract,Senior,Data & Analytics,Hyderabad
+TNS01344,2025/05/31,7,3,Active,2019-04-04,Contract,Entry,Quality Assurance,Chennai
+TNS01345,2025/05/31,1,4,Active,2021-11-26,Full-time,Entry,Engineering,Pune
+TNS01346,2025/05/31,1,1,Active,2023-08-28,Full-time,Senior,Engineering,Hyderabad
+TNS01347,2025/05/31,5,2,Active,2019-08-10,Full-time,Entry,Finance,Bengaluru
+TNS01348,2025/05/31,1,1,Active,2021-02-22,Full-time,Manager,Engineering,Hyderabad
+TNS01349,2025/05/31,8,1,Active,2023-12-09,Full-time,Entry,Project Management,Hyderabad
+TNS01350,2025/05/31,1,1,Active,2020-01-05,Intern,Associate,Engineering,Hyderabad
+TNS01351,2025/05/31,10,1,Active,2021-01-10,Full-time,Entry,Operations,Hyderabad
+TNS01352,2025/05/31,9,5,Active,2019-12-02,Full-time,Entry,Cybersecurity,Mumbai
+TNS01353,2025/05/31,1,1,Active,2023-07-01,Full-time,Associate,Engineering,Hyderabad
+TNS01354,2025/05/31,3,2,Active,2021-08-11,Full-time,Lead,Data & Analytics,Bengaluru
+TNS01355,2025/05/31,3,1,Active,2023-12-08,Full-time,Lead,Data & Analytics,Hyderabad
+TNS01356,2025/05/31,1,1,Active,2022-05-08,Full-time,Associate,Engineering,Hyderabad
+TNS01357,2025/05/31,1,3,Active,2023-12-15,Contract,Entry,Engineering,Chennai
+TNS01358,2025/05/31,5,1,Exited,2024-05-20,Full-time,Senior,Finance,Hyderabad
+TNS01359,2025/05/31,1,1,Active,2022-02-11,Full-time,Associate,Engineering,Hyderabad
+TNS01360,2025/05/31,6,1,Active,2023-01-08,Full-time,Manager,Sales & Marketing,Hyderabad
+TNS01361,2025/05/31,1,2,Active,2024-11-10,Full-time,Senior,Engineering,Bengaluru
+TNS01362,2025/05/31,6,2,Exited,2024-09-11,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS01363,2025/05/31,1,1,Active,2019-08-12,Full-time,Entry,Engineering,Hyderabad
+TNS01364,2025/05/31,2,1,Active,2023-06-12,Full-time,Entry,IT Support,Hyderabad
+TNS01365,2025/05/31,10,1,Active,2024-07-16,Full-time,Entry,Operations,Hyderabad
+TNS01366,2025/05/31,1,2,Active,2024-12-24,Full-time,Manager,Engineering,Bengaluru
+TNS01367,2025/05/31,3,3,Active,2023-08-02,Contract,Entry,Data & Analytics ,Chennai
+TNS01368,2025/05/31,6,1,Active,2019-03-03,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS01370,2025/05/31,7,1,Active,2021-04-11,Full-time,Associate,Quality Assurance,Hyderabad
+TNS01371,2025/05/31,3,2,Exited,2021-12-31,Full-time,Senior,Data & Analytics,Bengaluru
+TNS01372,2025/05/31,1,2,Active,2024-02-20,Full-time,Associate,Engineering,Bengaluru
+TNS01373,2025/05/31,9,4,Active,2021-09-08,Full-time,Senior,Cybersecurity,Pune
+TNS01374,2025/05/31,1,2,Active,2022-05-29,Full-time,Associate,Engineering,Bengaluru
+TNS01375,2025/05/31,6,1,Active,2024-11-15,Full-time,Senior,Sales & Marketing,Hyderabad
+TNS01376,2025/05/31,5,1,Active,2022-05-28,Full-time,Associate,Finance,Hyderabad
+TNS01377,2025/05/31,6,1,Active,2025-04-16,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01378,2025/05/31,5,1,Active,2020-05-03,Full-time,Associate,Finance,Hyderabad
+TNS01379,2025/05/31,6,4,Active,2020-12-21,Contract,Lead,Sales & Marketing,Pune
+TNS01380,2025/05/31,1,2,Active,2025-04-22,Full-time,Entry,Engineering,Bengaluru
+TNS01381,2025/05/31,9,2,Active,2024-12-23,Contract,Entry,Cybersecurity,Bengaluru
+TNS01382,2025/05/31,7,1,Exited,2022-11-03,Contract,Senior,Quality Assurance,Hyderabad
+TNS01383,2025/05/31,2,1,Active,2022-11-07,Full-time,Associate,IT Support,Hyderabad
+TNS01384,2025/05/31,7,4,Active,2020-05-03,Full-time,Senior,Quality Assurance,Pune
+TNS01385,2025/05/31,3,2,Exited,2021-11-17,Full-time,Associate,Data & Analytics,Bengaluru
+TNS01386,2025/05/31,2,2,Active,2019-10-22,Full-time,Associate,IT Support,Bengaluru
+TNS01387,2025/05/31,5,4,Active,2024-05-22,Full-time,Lead,Finance,Pune
+TNS01388,2025/05/31,5,2,Active,2020-10-16,Full-time,Entry,Finance,Bengaluru
+TNS01389,2025/05/31,1,3,Active,2025-05-31,Full-time,Manager,Engineering,Chennai
+TNS01390,2025/05/31,3,5,Active,2022-05-19,Full-time,Entry,Data & Analytics,Mumbai
+TNS01391,2025/05/31,1,4,Active,2020-12-29,Full-time,Entry,Engineering,Pune
+TNS01392,2025/05/31,5,1,Exited,2024-11-20,Contract,Associate,Finance,Hyderabad
+TNS01393,2025/05/31,3,5,Active,2022-11-24,Full-time,Lead,Data & Analytics,Mumbai
+TNS01394,2025/05/31,1,2,Active,2023-04-20,Full-time,Lead,Engineering,Bengaluru
+TNS01395,2025/05/31,2,4,Active,2020-07-12,Full-time,Lead,IT Support,Pune
+TNS01396,2025/05/31,1,5,Active,2024-08-25,Full-time,Associate,Engineering,Mumbai
+TNS01397,2025/05/31,7,1,Active,2024-01-27,Full-time,Associate,Quality Assurance,Hyderabad
+TNS01398,2025/05/31,3,1,Active,2021-09-29,Full-time,Entry,Data & Analytics,Hyderabad
+TNS01399,2025/05/31,10,4,Exited,2021-12-15,Full-time,Associate,Operations,Pune
+TNS01400,2025/05/31,9,5,Active,2021-08-10,Full-time,Lead,Cybersecurity,Mumbai
+TNS01403,2025/05/31,6,1,Active,2024-08-23,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS01404,2025/05/31,1,2,Active,2024-06-22,Full-time,Manager,Engineering,Bengaluru
+TNS01405,2025/05/31,2,1,Exited,2023-02-04,Full-time,Associate,IT Support,Hyderabad
+TNS01406,2025/05/31,7,4,Exited,2020-01-11,Full-time,Lead,Quality Assurance,Pune
+TNS01407,2025/05/31,8,1,Active,2021-02-14,Contract,Senior,Project Management,Hyderabad
+TNS01408,2025/05/31,1,3,Exited,2024-05-15,Full-time,Associate,Engineering,Chennai
+TNS01410,2025/05/31,4,2,Active,2022-12-11,Intern,Lead,Human Resources,Bengaluru
+TNS01411,2025/05/31,2,2,Active,2023-08-18,Full-time,Lead,IT Support,Bengaluru
+TNS01412,2025/05/31,6,1,Active,2023-04-15,Full-time,Lead,Sales & Marketing,Hyderabad
+TNS01413,2025/05/31,6,1,Active,2021-07-05,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01414,2025/05/31,1,5,Active,2023-02-15,Full-time,Associate,Engineering,Mumbai
+TNS01415,2025/05/31,3,4,Active,2025-04-21,Contract,Senior,Data & Analytics,Pune
+TNS01416,2025/05/31,3,2,Active,2023-07-19,Full-time,Senior,Data & Analytics,Bengaluru
+TNS01419,2025/05/31,5,4,Active,2024-09-22,Full-time,Associate,Finance,Pune
+TNS01420,2025/05/31,10,1,Active,2020-05-29,Full-time,Senior,Operations,Hyderabad
+TNS01421,2025/05/31,2,5,Active,2024-04-12,Full-time,Associate,IT Support,Mumbai
+TNS01422,2025/05/31,10,2,Active,2024-10-20,Full-time,Associate,Operations,Bengaluru
+TNS01423,2025/05/31,4,2,Active,2021-10-01,Full-time,Entry,Human Resources,Bengaluru
+TNS01424,2025/05/31,1,4,Active,2021-01-23,Full-time,Lead,Engineering,Pune
+TNS01425,2025/05/31,1,2,Active,2022-07-02,Full-time,Associate,Engineering,Bengaluru
+TNS01426,2025/05/31,3,5,Active,2019-11-19,Full-time,Entry,Data & Analytics,Mumbai
+TNS01427,2025/05/31,1,2,Exited,2021-03-16,Full-time,Associate,Engineering,Bengaluru
+TNS01428,2025/05/31,1,2,Active,2019-01-20,Full-time,Entry,Engineering,Bengaluru
+TNS01429,2025/05/31,1,1,Exited,2021-09-25,Full-time,Associate,Engineering,Hyderabad
+TNS01430,2025/05/31,9,3,Active,2019-12-16,Full-time,Entry,Cybersecurity,Chennai
+TNS01431,2025/05/31,3,5,Active,2022-06-11,Full-time,Entry,Data & Analytics,Mumbai
+TNS01432,2025/05/31,6,5,Active,2025-02-07,Full-time,Associate,Sales & Marketing,Mumbai
+TNS01434,2025/05/31,5,1,Active,2020-12-19,Full-time,Associate,Finance,Hyderabad
+TNS01435,2025/05/31,5,1,Active,2021-06-17,Full-time,Senior,Finance,Hyderabad
+TNS01436,2025/05/31,3,1,Active,2019-02-26,Contract,Entry,Data & Analytics,Hyderabad
+TNS01437,2025/05/31,10,5,Active,2021-08-14,Intern,Associate,Operations,Mumbai
+TNS01438,2025/05/31,6,2,Active,2023-11-26,Intern,Associate,Sales & Marketing,Bengaluru
+TNS01439,2025/05/31,1,3,Active,2025-04-11,Full-time,Senior,Engineering,Chennai
+TNS01440,2025/05/31,8,2,Active,2025-04-16,Full-time,Senior,Project Management,Bengaluru
+TNS01441,2025/05/31,1,2,Exited,2019-02-06,Full-time,Associate,Engineering,Bengaluru
+TNS01442,2025/05/31,3,4,Active,2023-08-31,Full-time,Senior,Data & Analytics,Pune
+TNS01443,2025/05/31,2,1,Active,2021-04-07,Full-time,Associate,IT Support,Hyderabad
+TNS01444,2025/05/31,8,1,Active,2024-09-26,Full-time,Lead,Project Management,Hyderabad
+TNS01445,2025/05/31,7,1,Active,2023-11-18,Full-time,Entry,Quality Assurance,Hyderabad
+TNS01446,2025/05/31,4,1,Active,2019-05-27,Full-time,Entry,Human Resources,Hyderabad
+TNS01447,2025/05/31,6,4,Active,2022-07-15,Full-time,Lead,Sales & Marketing,Pune
+TNS01448,2025/05/31,6,5,Active,2019-12-05,Contract,Associate,Sales & Marketing,Mumbai
+TNS01449,2025/05/31,2,2,Active,2023-01-24,Full-time,Entry,IT Support,Bengaluru
+TNS01450,2025/05/31,6,1,Active,2021-12-11,Contract,Associate,Sales & Marketing,Hyderabad
+TNS01451,2025/05/31,1,1,Active,2020-09-16,Intern,Senior,Engineering,Hyderabad
+TNS01452,2025/05/31,6,1,Exited,2022-12-05,Full-time,Entry,Sales & Marketing,Hyderabad
+TNS01453,2025/05/31,3,3,Active,2020-03-13,Full-time,Entry,Data & Analytics,Chennai
+TNS01454,2025/05/31,6,3,Active,2022-07-10,Full-time,Senior,Sales & Marketing,Chennai
+TNS01455,2025/05/31,3,1,Exited,2019-07-04,Full-time,Lead,Data & Analytics,Hyderabad
+TNS01457,2025/05/31,1,4,Active,2020-12-31,Full-time,Lead,Engineering,Pune
+TNS01459,2025/05/31,1,2,Active,2020-04-04,Full-time,Entry,Engineering,Bengaluru
+TNS01460,2025/05/31,6,3,Active,2020-02-28,Full-time,Senior,Sales & Marketing,Chennai
+TNS01461,2025/05/31,2,5,Active,2019-04-14,Full-time,Manager,IT Support ,Mumbai
+TNS01462,2025/05/31,10,3,Exited,2023-01-22,Full-time,Associate,Operations,Chennai
+TNS01463,2025/05/31,3,4,Active,2021-04-05,Full-time,Senior,Data & Analytics,Pune
+TNS01464,2025/05/31,1,3,Active,2020-05-29,Full-time,Entry,Engineering,Chennai
+TNS01465,2025/05/31,1,2,Active,2019-09-06,Full-time,Manager,Engineering,Bengaluru
+TNS01466,2025/05/31,7,1,Active,2019-12-20,Intern,Associate,Quality Assurance,Hyderabad
+TNS01467,2025/05/31,6,2,Active,2021-04-05,Full-time,Entry,Sales & Marketing,Bengaluru
+TNS01468,2025/05/31,7,5,Active,2021-12-02,Full-time,Lead,Quality Assurance,Mumbai
+TNS01469,2025/05/31,5,2,Active,2019-07-14,Full-time,Lead,Finance,Bengaluru
+TNS01470,2025/05/31,9,2,Active,2019-12-16,Full-time,Manager,Cybersecurity ,Bengaluru
+TNS01471,2025/05/31,7,2,Active,2023-02-11,Full-time,Associate,Quality Assurance ,Bengaluru
+TNS01472,2025/05/31,1,5,Active,2023-10-15,Full-time,Associate,Engineering,Mumbai
+TNS01473,2025/05/31,1,1,Active,2019-05-01,Intern,Lead,Engineering,Hyderabad
+TNS01474,2025/05/31,6,4,Active,2019-05-14,Contract,Lead,Sales & Marketing,Pune
+TNS01475,2025/05/31,9,1,Active,2024-11-22,Full-time,Associate,Cybersecurity,Hyderabad
+TNS01476,2025/05/31,1,1,Active,2020-05-14,Contract,Associate,Engineering,Hyderabad
+TNS01477,2025/05/31,8,5,Active,2020-08-14,Full-time,Senior,Project Management,Mumbai
+TNS01478,2025/05/31,7,1,Active,2021-06-28,Full-time,Manager,Quality Assurance,Hyderabad
+TNS01479,2025/05/31,1,4,Active,2025-04-10,Full-time,Senior,Engineering,Pune
+TNS01480,2025/05/31,3,2,Active,2021-01-14,Full-time,Senior,Data & Analytics,Bengaluru
+TNS01481,2025/05/31,10,1,Active,2024-02-27,Full-time,Entry,Operations,Hyderabad
+TNS01482,2025/05/31,1,3,Active,2024-01-10,Full-time,Entry,Engineering,Chennai
+TNS01483,2025/05/31,3,4,Exited,2021-10-01,Full-time,Senior,Data & Analytics,Pune
+TNS01484,2025/05/31,2,5,Active,2024-04-29,Full-time,Senior,IT Support,Mumbai
+TNS01485,2025/05/31,5,2,Active,2023-12-05,Contract,Entry,Finance,Bengaluru
+TNS01486,2025/05/31,6,2,Active,2022-01-24,Full-time,Senior,Sales & Marketing,Bengaluru
+TNS01487,2025/05/31,2,4,Active,2020-05-05,Full-time,Senior,IT Support,Pune
+TNS01488,2025/05/31,2,4,Active,2021-10-06,Full-time,Associate,IT Support,Pune
+TNS01489,2025/05/31,10,1,Exited,2023-11-04,Contract,Associate,Operations,Hyderabad
+TNS01490,2025/05/31,5,4,Active,2024-03-03,Full-time,Lead,Finance ,Pune
+TNS01491,2025/05/31,2,1,Active,2025-04-20,Full-time,Associate,IT Support,Hyderabad
+TNS01492,2025/05/31,1,2,Active,2023-12-23,Full-time,Lead,Engineering,Bengaluru
+TNS01493,2025/05/31,8,3,Active,2023-11-21,Full-time,Senior,Project Management,Chennai
+TNS01494,2025/05/31,7,1,Active,2024-09-09,Full-time,Associate,Quality Assurance,Hyderabad
+TNS01495,2025/05/31,6,3,Active,2024-08-01,Intern,Entry,Sales & Marketing,Chennai
+TNS01496,2025/05/31,1,3,Exited,2022-02-11,Full-time,Lead,Engineering,Chennai
+TNS01497,2025/05/31,8,1,Active,2025-05-15,Full-time,Associate,Project Management,Hyderabad
+TNS01498,2025/05/31,9,1,Active,2023-07-07,Full-time,Entry,Cybersecurity,Hyderabad
+TNS01499,2025/05/31,3,4,Active,2020-06-11,Full-time,Lead,Data & Analytics,Pune
+TNS00480,2025/05/31,1,2,Active,2023-07-11,Full-time,Senior,Engineering,Bengaluru
+TNS00713,2025/05/31,1,1,Active,2024-02-13,Full-time,Lead,Engineering,Hyderabad
+TNS01356,2025/05/31,1,1,Active,2022-05-08,Full-time,Associate,Engineering,Hyderabad
