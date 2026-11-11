@@ -20,7 +20,7 @@ The project transforms HR data into meaningful business insights through interac
 
 ### 1. Excel HR Analytics Dashboard
 
-![Excel HR Dashboard](excel/dashboard.png)
+![Excel HR Dashboard](https://github.com/Yerrammm/HR-Workforce-Analytics/blob/main/excel/HR_Dashboard.png)
 
 **Key Features:**
 - Department-wise employee headcount
