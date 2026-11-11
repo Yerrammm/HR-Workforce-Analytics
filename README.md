@@ -33,7 +33,7 @@ The project transforms HR data into meaningful business insights through interac
 
 ### 2. Power BI HR Analytics Dashboard
 
-![Power BI HR Dashboard](powerbi/dashboard.png)
+![Power BI HR Dashboard](https://github.com/Yerrammm/HR-Workforce-Analytics/blob/main/powerbi/HR_powerbi_dashboard.png)
 
 **Key Features:**
 - Recruitment funnel analysis
